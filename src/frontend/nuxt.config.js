@@ -7,7 +7,7 @@ export default {
   ** See https://nuxtjs.org/api/configuration-head
   */
   head: {
-    title: '2ⁿᵈ Layer Staking Services',
+    title: 'DOLCA stake pool',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -31,7 +31,7 @@ export default {
     }]
   ],
   sitemap: {
-      hostname: 'https://staking.2ndlayer.eu',
+      hostname: 'https://www.dolcapool.eu/',
       gzip: true,
   },
   /*
