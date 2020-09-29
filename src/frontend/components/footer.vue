@@ -42,18 +42,18 @@
         <div class="column is-4">
           <ul class="footer-links">
             <li>
-              <a href="https://twitter.com/2nd_Layer">Twitter</a>
+              <a href="https://twitter.com/dolcapool">Twitter</a>
             </li>
 
             <li>
-              <a href="https://www.youtube.com/channel/UCncyGaCH5emsxroa3-YIb_A/">YouTube</a>
+              <a href="https://t.me/dolcapool">Telegram</a>
             </li>
           </ul>
         </div>
       </div>
       <!-- Copyright -->
       <p v-if="new Date().getFullYear() > 2020" class="k-copyright">© 2020 – {{ new Date().getFullYear() }} | 2ⁿᵈ Layer. All Rights Reserved.</p>
-      <p v-else class="k-copyright">© 2020 | 2ⁿᵈ Layer. All Rights Reserved.</p>
+      <p v-else class="k-copyright">© 2020 | DOLCA stake pool. All Rights Reserved.</p>
       <br>
     </div>
 
