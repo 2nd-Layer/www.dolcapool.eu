@@ -2,7 +2,7 @@
   <div class="hero-body">
     <div class="columns has-text-centered">
       <div class="column is-6 is-offset-3">
-        <h2 class="subtitle is-5 is-light is-thin">
+        <h2 class="subtitle is-4 is-light is-thin">
           Better Late Than Never is now part of DOLCA
         </h2>
         <p class="content has-text-left">
