@@ -12,7 +12,7 @@
 
     <!-- Menu item -->
     <div class="navbar-item is-nav-link">
-      <a class="is-centered-responsive" href="/tezos-bakery">Tezos Bakery</a>
+      <a class="is-centered-responsive" href="/better-late-than-never-partnership">BLTN partnership</a>
     </div>
 
     <!-- Stake Now -->
