@@ -38,7 +38,7 @@
     },
     head() {
       return {
-        title: '2ⁿᵈ Layer Staking Services'
+        title: 'DOLCA stake pool'
       }
     }
   }
