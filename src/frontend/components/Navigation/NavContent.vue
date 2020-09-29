@@ -30,8 +30,8 @@
     </div>
 
     <div class="navbar-item is-nav-link">
-      <a href="https://www.youtube.com/channel/UCncyGaCH5emsxroa3-YIb_A/">
-        <i class="fab fa-youtube-square is-size-3"></i>
+      <a href="https://t.me/dolcapool">
+        <i class="fab fa-telegram-plane is-size-3"></i>
       </a>
     </div>
   </div>
