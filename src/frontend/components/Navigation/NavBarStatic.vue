@@ -5,7 +5,7 @@
       <!-- Brand -->
       <div class="navbar-brand">
         <nuxt-link to="/" class="navbar-item">
-          <img :src="logo" alt="2nd Layer Staking Services Logo">
+          <strong class="has-text-white">DOLCA stake pool</strong>
         </nuxt-link>
         <!-- Responsive toggle -->
         <ResponsiveToggle/>
@@ -37,10 +37,5 @@
         isMobileMenuToggled: 'responsive-toggle/isMobileMenuToggled'
       })
     },
-    data() {
-      return {
-        logo: require('@/assets/images/2ndLayer-logo.svg')
-      };
-    }
   }
 </script>

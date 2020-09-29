@@ -4,7 +4,7 @@
       <!-- Logo -->
       <div class="footer-logo">
         <a href="/">
-          <img :src="logo" alt="2nd Layer Staking Services">
+          <img :src="logo" alt="DOLCA Stake Pool Logo">
           <div class="brand-subtitle">Multi-Ledger Staking Services</div>
         </a>
       </div>
@@ -66,7 +66,7 @@
 export default {
   data() {
     return {
-      logo: require('@/assets/images/2ndLayer-logo.svg'),
+      logo: require('@/assets/images/logos/dolca-pool-logo-white-with-transparent-bg.png'),
       solarSystem: require('@/assets/images/bg/solar.svg')
     }
   }
