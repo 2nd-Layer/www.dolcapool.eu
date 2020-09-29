@@ -26,6 +26,27 @@
         <p class="content has-text-left">
           <b>Better Late Than Never</b> stakepools on the testnet are still operated solely by <a href="https://www.2ndlayer.eu">2ⁿᵈ Layer</a> in partnership with our Infrastructure Provider  <a href="https://www.perlur.cloud/">PERLUR Group</a> and Internet Service Provider  <a href="https://www.poda.cz/">PODA</a>.
         </p>
+        <div class="container has-text-centered">
+          <h2 class="subtitle">Project Partners</h2>
+          <div class="columns">
+            <div class="column">
+              <h3 class="title is-6 is-marginless">Infrastructure Provider</h3>
+              <figure class="image">
+                <a href="https://www.perlur.cloud/">
+                  <img style="height: 3rem;" :src="PERLURLogoWhite" />
+                </a>
+              </figure>
+            </div>
+            <div class="column">
+              <h3 class="title is-6 is-marginless">Internet Service Provider</h3>
+              <figure class="image">
+                <a href="https://www.poda.cz/">
+                  <img style="height: 3rem;" :src="PODALogoWhite" />
+                </a>
+              </figure>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -35,7 +56,8 @@
 export default {
   data() {
     return {
-      tezosLogo: require('@/assets/images/coins/Tezos-coin-XTZ-symbol.svg')
+      PERLURLogoWhite: require('@/assets/images/logos/partners/perlur-logo-white.svg'),
+      PODALogoWhite: require('@/assets/images/logos/partners/poda-logo-white.svg')
     }
   }
 }
