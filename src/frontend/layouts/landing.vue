@@ -13,12 +13,9 @@
         <div class="hero-foot">
           <div class="container">
             <div class="is-centered coin-list">
-              <a href="https://cardano.org/" target="_blank">
+              <nuxt-link to="/about-cardano/">
                 <img class="hero-logo" :src="cardanoLogo" alt="Cardano Logo">
-              </a>
-              <a href="#">
-                <img class="hero-logo" :src="tezosLogo" alt="Tezos Logo">
-              </a>
+              </nuxt-link>
             </div>
           </div>
         </div>
