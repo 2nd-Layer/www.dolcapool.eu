@@ -1,10 +1,10 @@
 {
-  "name": "staking.2ndlayer.eu",
+  "name": "www.dolcapool.eu",
   "private": true,
   "license": "AGPL-3.0-or-later",
   "repository": {
     "type": "git",
-    "url": "https://github.com/2nd-Layer/staking.2ndlayer.eu.git"
+    "url": "https://github.com/2nd-Layer/www.dolcapool.eu.git"
   },
   "scripts": {
     "dev": "nuxt",
