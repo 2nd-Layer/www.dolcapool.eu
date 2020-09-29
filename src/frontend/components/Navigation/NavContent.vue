@@ -25,7 +25,7 @@
 
     <div class="navbar-item is-nav-link">
       <a href="https://twitter.com/dolcapool">
-        <i class="fab fa-twitter-square is-size-3"></i>
+        <i class="fab fa-twitter is-size-3"></i>
       </a>
     </div>
 
