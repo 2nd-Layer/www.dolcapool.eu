@@ -4,10 +4,10 @@
       <div class="columns is-vcentered">
         <!-- Landing page Title -->
         <div class="column is-6 landing-caption">
-          <h1 class="title is-1 is-light is-semibold is-spaced main-title">Multi-Ledger Staking Services</h1>
+          <h1 class="title is-1 is-light is-semibold is-spaced main-title">Cardano (ADA) Staking Services</h1>
           <h2 class="subtitle is-6 is-light is-thin">
-            2ⁿᵈ Layer Staking Services is a value-added Staking Services provider for Proof of Stake
-            cryptocurrencies.
+            <strong>DOLCA</strong> is a value-added Staking Services provider for Proof of Stake
+            <nuxt-link to="/about-cardano/">cryptocurrency Cardano</nuxt-link>.
           </h2>
           <!-- CTA -->
           <p>
