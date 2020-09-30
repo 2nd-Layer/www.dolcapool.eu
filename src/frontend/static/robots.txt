@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://staking.2ndlayer.eu/sitemap.xml.gz
-Sitemap: https://staking.2ndlayer.eu/sitemap.xml
+Sitemap: https://www.dolcapool.eu/sitemap.xml.gz
+Sitemap: https://www.dolcapool.eu/sitemap.xml
