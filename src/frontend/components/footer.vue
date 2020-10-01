@@ -66,7 +66,7 @@
 export default {
   data() {
     return {
-      logo: require('@/assets/images/logos/dolca-pool-logo-white-with-transparent-bg.png'),
+      logo: require('@/assets/images/logos/logo-white.svg'),
       solarSystem: require('@/assets/images/bg/solar.svg')
     }
   }

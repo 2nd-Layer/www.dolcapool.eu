@@ -5,9 +5,7 @@
       <div class="hero-header">
         <Header/>
       </div>
-      <div class="hero-body">
-        <nuxt/>
-      </div>
+      <nuxt/>
       <div class="hero-footer">
         <!-- Hero footer -->
         <div class="hero-foot">

@@ -5,7 +5,7 @@
       <!-- Brand -->
       <div class="navbar-brand">
         <nuxt-link to="/" class="navbar-item">
-          <strong class="has-text-white">DOLCA stake pool</strong>
+          <img :src="logo" alt="DOLCA Staking Services Logo">
         </nuxt-link>
         <!-- Responsive toggle -->
         <ResponsiveToggle/>
@@ -37,5 +37,11 @@
         isMobileMenuToggled: 'responsive-toggle/isMobileMenuToggled'
       })
     },
+
+    data() {
+      return {
+        logo: require('@/assets/images/logos/logo-header-white.svg')
+      };
+    }
   }
 </script>
