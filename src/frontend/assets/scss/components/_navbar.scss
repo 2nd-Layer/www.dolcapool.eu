@@ -57,6 +57,10 @@
     a.is-active {
       color: $secondary;
     }
+
+    &:focus, &:hover, &:focus-within {
+      background-color: transparent !important;
+    }
   }
 
   //Color modifiers
