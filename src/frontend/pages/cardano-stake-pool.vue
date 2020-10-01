@@ -25,16 +25,16 @@
             <div class="columns is-vcentered">
               <div class="column is-6">
                 <p><b>Rank:</b> {{ rank }}</p>
-                <p><b>Total Stake:</b> {{ totalStake }}</p>
+                <p><b>Total Stake:</b> {{ totalStake }} ₳</p>
                 <p><b>Last Reward Epoch:</b> {{ lastRewardEpoch }}</p>
-                <p><b>Tax Ratio:</b> {{ taxRatio }}</p>
-                <p><b>Tax Fixed:</b> {{ taxFixed }}</p>
+                <p><b>Variable Fee:</b> {{ taxRatio }}%</p>
+                <p><b>Fixed Fee:</b> {{ taxFixed }} ₳</p>
               </div>
               <div class="column is-6">
-                <p><b>ROA:</b> {{ roa }}</p>
-                <p><b>Blocks Lifetime:</b> {{ blocksLifetime }}</p>
-                <p><b>Blocks Epoch:</b> {{ blocksEpoch }}</p>
-                <p><b>Pledge:</b> {{ pledge }}</p>
+                <p><b><abbr title="Return on Assets">RoA</abbr>:</b> {{ roa }}%</p>
+                <p><b>Lifetime Blocks:</b> {{ blocksLifetime }}</p>
+                <p><b>Epoch Blocks:</b> {{ blocksEpoch }}</p>
+                <p><b>Owner Pledge:</b> {{ pledge }} ₳</p>
               </div>
             </div>
           </div>
@@ -103,7 +103,6 @@
 import axios from 'axios';
 
 export default {
-  layout: 'landing',
   data() {
     return {
       cardanoLogo: require('@/assets/images/coins/Cardano-coin-ADA-symbol.svg'),
@@ -117,7 +116,7 @@ export default {
       return this.pool.rewards_epoch;
     },
     taxRatio() {
-      return this.pool.tax_ratio;
+      return this.pool.tax_ratio * 100;
     },
     taxFixed() {
       return this.lovelaceToAda(this.pool.tax_fix);
