@@ -24,6 +24,7 @@
             <h2 class="title is-2 is-light is-semibold is-spaced main-title">Live Pool Stats</h2>
             <div class="columns is-vcentered">
               <div class="column is-6">
+                <p><b>Rank:</b> {{ rank }}</p>
                 <p><b>Total Stake:</b> {{ totalStake }}</p>
                 <p><b>Last Reward Epoch:</b> {{ lastRewardEpoch }}</p>
                 <p><b>Tax Ratio:</b> {{ taxRatio }}</p>
@@ -34,7 +35,6 @@
                 <p><b>Blocks Lifetime:</b> {{ blocksLifetime }}</p>
                 <p><b>Blocks Epoch:</b> {{ blocksEpoch }}</p>
                 <p><b>Pledge:</b> {{ pledge }}</p>
-                <p><b>Rank:</b> {{ rank }}</p>
               </div>
             </div>
           </div>
