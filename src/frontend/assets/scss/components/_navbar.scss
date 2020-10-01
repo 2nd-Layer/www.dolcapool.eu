@@ -21,8 +21,8 @@
     min-height: 4rem;
 
     img {
-      max-height: 50px !important;
-      height: 50px;
+      max-height: 75px !important;
+      height: 75px;
     }
 
     //Removing navbar item default hover behaviour
@@ -56,6 +56,10 @@
 
     a.is-active {
       color: $secondary;
+    }
+
+    &:focus, &:hover, &:focus-within {
+      background-color: transparent !important;
     }
   }
 
