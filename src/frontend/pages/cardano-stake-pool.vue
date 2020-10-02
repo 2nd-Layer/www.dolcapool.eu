@@ -2,23 +2,26 @@
   <div class="hero-body">
     <div class="container">
       <div class="columns is-vcentered">
-        <!-- Landing page Title -->
-        <div class="column is-6 landing-caption">
-          <h1 class="title is-1 is-light is-semibold is-spaced main-title">Cardano (ADA) Staking Services</h1>
+        <div class="column is-2">
+          <div class="token-image mb-40">
+            <nuxt-link to="/about-cardano/">
+              <img :src="cardanoLogo" alt="Cardano Logo">
+            </nuxt-link>
+          </div>
+        </div>
+        <div class="column is-4">
+          <h1 class="title is-2 is-light is-semibold is-spaced main-title">Cardano Stake Pool</h1>
           <h2 class="subtitle is-5 is-light is-thin">
-            <b>DOLCA</b> is a value-added Staking Services provider for Proof of Stake
-            <nuxt-link to="/about-cardano/">cryptocurrency Cardano</nuxt-link>
-            .
+            Cryptocurrency brought to the next level. Join our Stake Pool for supercharged rewards.
           </h2>
           <!-- CTA -->
           <p>
-            <a href="/begin-staking-now/" class="button k-button k-primary raised has-gradient is-fat is-bold">
-              <span class="text">Get Started</span>
+            <a href="start" class="button k-button k-primary raised has-gradient is-fat is-bold">
+              <span class="text">More details</span>
               <span class="front-gradient"></span>
             </a>
           </p>
         </div>
-        <!-- Hero image -->
         <div class="column is-6">
           <div v-if="pool" class="box primary-gradient">
             <h2 class="title is-2 is-light is-semibold is-spaced main-title">Live Pool Stats</h2>
@@ -105,6 +108,7 @@ import axios from 'axios';
 export default {
   data() {
     return {
+      pool: null,
       cardanoLogo: require('@/assets/images/coins/Cardano-coin-ADA-symbol.svg'),
     };
   },
@@ -137,14 +141,6 @@ export default {
       return this.pool.rank;
     }
   },
-
-  data() {
-    return {
-      pool: null,
-      playButton: require('@/assets/images/icons/play.svg')
-    };
-  },
-
   methods: {
     lovelaceToAda(lovelace) {
       return Math.floor(lovelace / Math.pow(10, 6))
