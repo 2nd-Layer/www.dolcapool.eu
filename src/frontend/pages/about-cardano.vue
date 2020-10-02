@@ -22,7 +22,7 @@
         </h3>
       </div>
       <div class="column is-narrow">
-        <div class="token-image mb-40">
+        <div class="token-image mb-40" style="filter: invert(100%);">
           <img :src="ouroborosImage" alt="Ouroboros Image">
         </div>
       </div>
