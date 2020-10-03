@@ -27,8 +27,8 @@
             <h2 class="title is-2 is-light is-semibold is-spaced main-title">Live Pool Stats</h2>
             <div class="columns is-vcentered">
               <div class="column is-6">
+                <p><b>Current Epoch Stake:</b> {{ currentEpochStake }} ₳</p>
                 <p><b>Rank:</b> {{ rank }}</p>
-                <p><b>Total Stake:</b> {{ totalStake }} ₳</p>
                 <p><b>Last Reward Epoch:</b> {{ lastRewardEpoch }}</p>
                 <p><b>Variable Fee:</b> {{ taxRatio }}%</p>
                 <p><b>Fixed Fee:</b> {{ taxFixed }} ₳</p>
@@ -113,7 +113,7 @@ export default {
     };
   },
   computed: {
-    totalStake() {
+    currentEpochStake() {
       return this.lovelaceToAda(this.pool.active_stake);
     },
     lastRewardEpoch() {
