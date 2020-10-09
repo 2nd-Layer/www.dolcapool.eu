@@ -21,12 +21,12 @@
           About Ouroboros Proof-of-Stake
         </h3>
         <p class="content pl-2">
-          Provably secure Proof-of-Stake consensus protocol Ouroboros was first introduced in the paper <a href="https://eprint.iacr.org/2016/889.pdf">Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol</a> now simply referred to as <strong class="has-text-white">Ouroboros Classic</strong>, since then, many iterations of Ouroboros protocol have been published improving different properties and making certain trade-offs... Other papers from the Ouroboros series include:
+          Provably secure Proof-of-Stake consensus protocol Ouroboros was first introduced in the paper <a href="https://eprint.iacr.org/2016/889">Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol</a> now simply referred to as <strong class="has-text-white">Ouroboros Classic</strong>, since then, many iterations of Ouroboros protocol have been published improving different properties and making certain trade-offs... Other papers from the Ouroboros series include:
           <ul>
-            <li><a href="https://eprint.iacr.org/2017/573.pdf">Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake blockchain</a></li>
-            <li><a href="https://eprint.iacr.org/2018/378.pdf">Ouroboros Genesis: Composable Proof-of-Stake Blockchains with Dynamic Availability</a></li>
-            <li><a href="https://eprint.iacr.org/2018/1132.pdf">Ouroboros Crypsinous: Privacy-Preserving Proof-of-Stake</a></li>
-            <li><a href="https://eprint.iacr.org/2019/838.pdf">Ouroboros Chronos: Permissionless Clock Synchronization via Proof-of-Stake</a></li>
+            <li><a href="https://eprint.iacr.org/2017/573">Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake blockchain</a></li>
+            <li><a href="https://eprint.iacr.org/2018/378">Ouroboros Genesis: Composable Proof-of-Stake Blockchains with Dynamic Availability</a></li>
+            <li><a href="https://eprint.iacr.org/2018/1132">Ouroboros Crypsinous: Privacy-Preserving Proof-of-Stake</a></li>
+            <li><a href="https://eprint.iacr.org/2019/838">Ouroboros Chronos: Permissionless Clock Synchronization via Proof-of-Stake</a></li>
             <li><a href="https://eprint.iacr.org/2019/942">Ouroboros Clepsydra: Ouroboros Praos in the Universally Composable Relative Time Model</a></li>
           </ul>
         </p>    
