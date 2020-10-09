@@ -54,7 +54,7 @@
                   <h3 class="title is-4 is-light">Network Governance</h3>
                   <div class="divider"></div>
                   <p class="is-light"><nuxt-link to="/docla-stake-poool-team/">As team of Stake Pool Owners and Operators</nuxt-link>, we feel oblighed to provide expert advice to out <strong>stake delegates</strong> about on-chain Governance in the areas of both the <nuxt-link to="/about-cardano/">Technicals of Cardano Blockchain<nuxt-link> as well as investments in <a href="https://iohk.io/en/blog/posts/2020/09/10/project-catalyst-voltaire-bring-power-to-the-people/">Project Catalyst</a.></p>
-                  <p class="is-light">Our teamn compises of experts in the fields of Networking, IT infrastructure, <nuxt-link to="/partnership-with-dCloud/">Cloud</nuxt-link>, DevOps and <nuxt-link to="/about-cardano/">Blockchain Technology</a> as well as Software Development..</p>
+                  <p class="is-light">Our teamn compises of experts in the fields of Networking, IT infrastructure, <nuxt-link to="/partnership-with-dCloud/">Cloud</nuxt-link>, DevOps and <nuxt-link to="/about-cardano/">Blockchain Technology</nuxt-link> as well as Software Development..</p>
                 </div>
               </div>
               <!-- Feature image -->
