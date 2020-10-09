@@ -27,6 +27,7 @@
             <li><a href="https://eprint.iacr.org/2018/378.pdf">Ouroboros Genesis: Composable Proof-of-Stake Blockchains with Dynamic Availability</a></li>
             <li><a href="https://eprint.iacr.org/2018/1132.pdf">Ouroboros Crypsinous: Privacy-Preserving Proof-of-Stake</a></li>
             <li><a href="https://eprint.iacr.org/2019/838.pdf">Ouroboros Chronos: Permissionless Clock Synchronization via Proof-of-Stake</a></li>
+            <li><a href="https://eprint.iacr.org/2019/942">Ouroboros Clepsydra: Ouroboros Praos in the Universally Composable Relative Time Model</a></li>
           </ul>
         </p>    
       </div>
