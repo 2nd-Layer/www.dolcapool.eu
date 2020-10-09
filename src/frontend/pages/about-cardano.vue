@@ -12,7 +12,8 @@
         </h2>
         <p class="content pl-2">
           Cardano is a 3<sup>rd</sup> generation blockchain, project started in 2015 and debuted publicly in late 2017. Cardano uses proof-of-stake consensus and relies heavily on peer-reviewed science. Cardano uses unique, provably secure Proof-of-stake consensus algorithm from the Ouroboros family.
-        </p>        
+        </p>
+        <p>In addition similarly to Bitcoin, it usses UTXO accounting model, Extended UTXO specifically to enable <strong class="has-text-white">Proof-of-Stake</strong> and <strong class="has-text-white">Smart Contracts</strong>. Compared to <strong class="has-text-white">Account based accounting model<strong class="has-text-white">, it provides greater opportunities for scaling than <strong class="has-text-white">Account based accounting model<strong class="has-text-white">.
       </div>
     </div>
     <div class="columns has-text-left">
