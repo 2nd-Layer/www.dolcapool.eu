@@ -40,7 +40,7 @@
 
     data() {
       return {
-        logo: require('@/assets/images/logos/logo-header-no-symbol-white.svg)
+        logo: require('@/assets/images/logos/logo-header-no-symbol-white.svg')
       };
     }
   }
