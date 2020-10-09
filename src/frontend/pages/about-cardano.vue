@@ -30,7 +30,16 @@
             <li><a href="https://eprint.iacr.org/2019/838">Ouroboros Chronos: Permissionless Clock Synchronization via Proof-of-Stake</a></li>
             <li><a href="https://eprint.iacr.org/2019/942">Ouroboros Clepsydra: Ouroboros Praos in the Universally Composable Relative Time Model</a></li>
           </ul>
-        </p>    
+        </p>
+        <p class="content pl-2">Current Csardano Shelley mainnet operates using <a href="https://eprint.iacr.org/2017/573">Ouroboros Praos</a> Proof-of-Stake consensus mechanism. Two major values influencing the network topology are <code>k</code> which controls the amount of stakepools the system should converge to, that is currently set to <strong class="has-text-white">150</strong>, based on Cardano Shelley Incentivized Testnet, this should bring effectibve amount of pools to <i>250</i> - <i>300</a>. Another such important parameter is <code>a0</code> which drives influence of <strong class="has-text-white">owners stake</strong> on rewards for himself and his delegates. With current setting of <i>0.3</i>. With these settings, running a stake pool becamse a commoditized market with thin margins and low-added value. We strive to be high added value Cardano Stake Poool.</p>
+        <!-- CTA -->
+        <p>
+          <nuxt-link to="/begin-staking-now/" class="button k-button k-primary raised has-gradient is-fat is-bold">
+            <span class="text">Leanr More about DOLCA Stake Pool</span>
+            <span class="front-gradient"></span>
+          </nuxt-link>
+        </p>
+      </div>
       </div>
       <div class="column is-narrow">
         <div class="token-image mb-40" style="filter: invert(100%);">
