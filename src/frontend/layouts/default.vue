@@ -15,7 +15,7 @@ export default {
   },
   head () {
     return {
-      title: 'DOLCA stake pool'
+      title: 'DOLCA Stake Pool'
     }
   }
 }
