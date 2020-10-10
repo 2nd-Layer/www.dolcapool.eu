@@ -1,0 +1,7 @@
+{
+  "name": "DOLCA Stake Pool",
+  "description": "DOLCA Cardano Stake Pool from Czech Republic",
+  "ticker": "DOLCA",
+  "homepage": "https://dolcapool.eu",
+  "extended": "https://dolcapool.eu/dolca.extended-metadata.json"
+}
