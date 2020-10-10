@@ -14,7 +14,7 @@
           Cardano is a 3<sup>rd</sup> generation blockchain, project started in 2015 and debuted publicly in late 2017. Cardano uses Proof-of-Stake consensus and relies heavily on peer-reviewed science. Cardano uses unique, provably secure Proof-of-Stake consensus algorithm from the Ouroboros family. Native token enabling stakeholders to participate in consensus is <strong class="has-text-white">ADA</strong>, with symbol <strong class="has-text-white">₳</strong>.
         </p>
         <!-- CTA -->
-        <p class="content buttons has-addons is-right">
+        <p class="content buttons has-addons is-centered">
           <nuxt-link to="/begin-staking-now/" class="button k-button k-primary raised has-gradient is-fat is-bold">
             <span class="text">Stake your <strong class="has-text-white">₳</strong> now</span>
             <span class="front-gradient"></span>
