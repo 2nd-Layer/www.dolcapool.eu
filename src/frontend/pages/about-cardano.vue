@@ -55,14 +55,14 @@
       </div>
       <div class="column is-narrow">
         <div class="token-image mb-40" style="filter: invert(100%);">
-          <img src="/_nuxt/img/ouroboros.fad40a7.svg" alt="Ouroboros Image">
+          <img :src="ouroborosImage" alt="Cardano Ouroboros Image">
         </div>
       </div>
     </div>
     <div class="columns has-text-left">
         <div class="column is-narrow is-offset-2">
-          <div class="token-image mb-40">
-            <img :src="cardanoLogo" alt="Cardano Logo">
+          <div class="token-image mb-40" style="filter: invert(100%);">
+            <img :src="eUTXOImage" alt="Extended UTXO Image">
           </div>
         </div>
       <div class="column is-offset-2">
@@ -103,14 +103,14 @@
       </div>
       <div class="column is-narrow">
         <div class="token-image mb-40" style="filter: invert(100%);">
-          <img src="/_nuxt/img/ouroboros.fad40a7.svg" alt="Ouroboros Image">
+          <img :src="marloweImage" alt="Cardano Marlowe Logo">
         </div>
       </div>
     </div>
     <div class="columns has-text-left">
       <div class="column is-narrow is-offset-2">
-        <div class="token-image mb-40">
-          <img :src="cardanoLogo" alt="Cardano Logo">
+        <div class="token-image mb-40" style="filter: invert(100%);">
+          <img :src="plutusImage" alt="Cardano Plutus Logo">
         </div>
       </div>
       <div class="column is-offset-2">
@@ -164,6 +164,9 @@ export default {
     return {
       cardanoLogo: require('@/assets/images/coins/Cardano-coin-ADA-symbol.svg'),
       ouroborosImage: require('@/assets/images/icons/ouroboros.svg'),
+      eUTXOImage: require('@/assets/images/icons/ouroboros.svg'),
+      marloweImage: require('@/assets/images/icons/marlowe.svg'),
+      plutusImage: require('@/assets/images/icons/plutus.svg'),
       hydraImage: require('@/assets/images/icons/hydra.svg')
     }
   }
