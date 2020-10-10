@@ -5,11 +5,16 @@
 @import 'components/buttons';
 @import 'components/features';
 @import 'components/footer';
+@import 'components/locale-switcher';
 @import 'components/navbar';
 
 /* ==========================================================================
 0. Body
 ========================================================================== */
+
+strong {
+  color: $white;
+}
 
 .landing-wrapper {
   background:

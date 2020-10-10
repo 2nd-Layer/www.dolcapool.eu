@@ -11,7 +11,7 @@
         <div class="hero-foot">
           <div class="container">
             <div class="is-centered coin-list">
-              <nuxt-link to="/about-cardano/">
+              <nuxt-link :to="localePath('/about-cardano/')">
                 <img class="hero-logo" :src="cardanoLogo" alt="Cardano Logo">
               </nuxt-link>
             </div>
