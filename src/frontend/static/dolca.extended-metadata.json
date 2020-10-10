@@ -1,0 +1,33 @@
+{
+  "itn": {
+    "owner": "ed25519_pk1rktw6yq0x797a57vmngap9lvu3e4jdttkm2gst38q5a2vxfmt79qzeg6xp",
+    "witness": "ed25519_sig1emhdvhphpcxf2zws9l2gdqaek5jqje68rm6ruh00hvqmvum5ppp8lptkxwcn9t0p3xvfsxj26ehsr3vrjqlsp0resxw6h3ltc64tsrqe7tnfh"
+  },
+  "info": {
+         "url_png_icon_64x64": "https://dolcapool.eu/images/logo_ico.png",
+         "url_png_logo": "https://dolcapool.eu/images/logo.png",
+         "social": {
+                 "twitter_handle": "dolcapool",
+                 "telegram_handle": "dolcapool"
+    },
+         "about": {
+                "me": "I am big fan of Cardano project and I am here from ITN. This pool is from nice Czech Republic.",
+                "server": "This pool has several servers in cloud solution and all of them are monitored 24/7. We have 500Mb/500Mb connectivity."
+    }
+  },
+ "adapools_ext": {
+  "prometheus": {
+    "0": {
+        "name": "DOLCA",
+        "type": "bp",
+        "key": "be45114c54a8fe9c3d72738af04a528a"
+     }
+   }
+ },
+  "my-pool-ids": [
+        "550f5dc96814537404c7544175d348262699e448d74005dfa26540d3"
+    ],
+  "when-satured-then-recommend": [
+        "550f5dc96814537404c7544175d348262699e448d74005dfa26540d3"
+    ]
+}
