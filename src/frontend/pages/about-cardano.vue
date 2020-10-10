@@ -175,9 +175,11 @@ export default {
   },
   computed: {
     a0Value() {
+      if (!this.protocol) return '';
       return this.protocol.a0;
     },
     kValue() {
+      if (!this.protocol) return '';
       return this.protocol.nOpt;
     }
   },
