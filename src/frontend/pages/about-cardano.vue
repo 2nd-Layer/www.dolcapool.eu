@@ -59,6 +59,102 @@
         </div>
       </div>
     </div>
+    <div class="columns has-text-left">
+      <div class="column is-offset-2">
+        <h3 class="subtitle is-4 is-light is-thin pr-2">
+          Extended UTXO Accounting Model
+        </h3>
+        <p class="content pl-2">
+        </p>
+        <p class="content pl-2">
+        </p>
+        <!-- CTA -->
+        <p>
+          <nuxt-link to="/begin-staking-now/" class="button k-button k-primary raised has-gradient is-fat is-bold">
+            <span class="text">Begin Staking Now</span>
+            <span class="front-gradient"></span>
+          </nuxt-link>
+        </p>
+        <!-- CTA end -->
+      </div>
+      <div class="column is-narrow">
+        <div class="token-image mb-40" style="filter: invert(100%);">
+          <img src="/_nuxt/img/ouroboros.fad40a7.svg" alt="Ouroboros Image">
+        </div>
+      </div>
+    </div>
+    <div class="columns has-text-left">
+      <div class="column is-offset-2">
+        <h3 class="subtitle is-4 is-light is-thin pr-2">
+          Marlowe - Domain Specific Language for financial contracts
+        </h3>
+        <p class="content pl-2">
+        </p>
+        <p class="content pl-2">
+        </p>
+        <!-- CTA -->
+        <p>
+          <nuxt-link to="/begin-staking-now/" class="button k-button k-primary raised has-gradient is-fat is-bold">
+            <span class="text">Begin Staking Now</span>
+            <span class="front-gradient"></span>
+          </nuxt-link>
+        </p>
+        <!-- CTA end -->
+      </div>
+      <div class="column is-narrow">
+        <div class="token-image mb-40" style="filter: invert(100%);">
+          <img src="/_nuxt/img/ouroboros.fad40a7.svg" alt="Ouroboros Image">
+        </div>
+      </div>
+    </div>
+    <div class="columns has-text-left">
+      <div class="column is-offset-2">
+        <h3 class="subtitle is-4 is-light is-thin pr-2">
+          Plutus Smart Contracts
+        </h3>
+        <p class="content pl-2">
+        </p>
+        <p class="content pl-2">
+        </p>
+        <!-- CTA -->
+        <p>
+          <nuxt-link to="/begin-staking-now/" class="button k-button k-primary raised has-gradient is-fat is-bold">
+            <span class="text">Begin Staking Now</span>
+            <span class="front-gradient"></span>
+          </nuxt-link>
+        </p>
+        <!-- CTA end -->
+      </div>
+      <div class="column is-narrow">
+        <div class="token-image mb-40" style="filter: invert(100%);">
+          <img src="/_nuxt/img/ouroboros.fad40a7.svg" alt="Ouroboros Image">
+        </div>
+      </div>
+    </div>
+    <div class="columns has-text-left">
+      <div class="column is-offset-2">
+        <h3 class="subtitle is-4 is-light is-thin pr-2">
+          Hydra 2<sup>nd</sup> Layer scaling for Extended UTXO
+        </h3>
+        <p class="content pl-2">
+        </p>
+        <p class="content pl-2">
+        </p>
+        <!-- CTA -->
+        <p>
+          <nuxt-link to="/begin-staking-now/" class="button k-button k-primary raised has-gradient is-fat is-bold">
+            <span class="text">Begin Staking Now</span>
+            <span class="front-gradient"></span>
+          </nuxt-link>
+        </p>
+        <!-- CTA end -->
+      </div>
+      <div class="column is-narrow">
+        <div class="token-image mb-40" style="filter: invert(100%);">
+          <img src="/_nuxt/img/ouroboros.fad40a7.svg" alt="Ouroboros Image">
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
