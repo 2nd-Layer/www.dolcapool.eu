@@ -54,14 +54,14 @@
         <!-- CTA end -->
       </div>
       <div class="column is-narrow">
-        <div class="token-image mb-40" style="filter: invert(100%);">
+        <div class="token-image mb-40">
           <img :src="ouroborosImage" alt="Cardano Ouroboros Image">
         </div>
       </div>
     </div>
     <div class="columns has-text-left">
         <div class="column is-narrow is-offset-2">
-          <div class="token-image mb-40" style="filter: invert(100%);">
+          <div class="token-image mb-40">
             <img :src="eUTXOImage" alt="Extended UTXO Image">
           </div>
         </div>
@@ -102,14 +102,14 @@
         <!-- CTA end -->
       </div>
       <div class="column is-narrow">
-        <div class="token-image mb-40" style="filter: invert(100%);">
+        <div class="token-image mb-40">
           <img :src="marloweImage" alt="Cardano Marlowe Logo">
         </div>
       </div>
     </div>
     <div class="columns has-text-left">
       <div class="column is-narrow is-offset-2">
-        <div class="token-image mb-40" style="filter: invert(100%);">
+        <div class="token-image mb-40">
           <img :src="plutusImage" alt="Cardano Plutus Logo">
         </div>
       </div>
@@ -150,7 +150,7 @@
         <!-- CTA end -->
       </div>
       <div class="column is-narrow">
-        <div class="token-image mb-40" style="filter: invert(100%);">
+        <div class="token-image mb-40">
           <img :src="hydraImage" alt="Hydra Logo">
         </div>
       </div>
