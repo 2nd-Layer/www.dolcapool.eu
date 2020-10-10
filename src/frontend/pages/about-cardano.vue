@@ -22,7 +22,7 @@
         </p>
         <!-- CTA end -->
         <p>
-          In addition similarly to Bitcoin, it usses UTXO accounting model, Extended UTXO specifically to enable <strong class="has-text-white">Proof-of-Stake</strong> and <strong class="has-text-white">Smart Contracts</strong>. Compared to <strong class="has-text-white">Account based accounting model<strong class="has-text-white">, it provides greater opportunities for scaling than <strong class="has-text-white">Account based accounting model<strong class="has-text-white">.
+          In addition similarly to Bitcoin, it usses UTXO accounting model, Extended UTXO specifically to enable <strong class="has-text-white">Proof-of-Stake</strong> and <strong class="has-text-white">Smart Contracts</strong>. Compared to <strong class="has-text-white">Account based accounting model</strong>, it provides greater opportunities for scaling for <strong class="has-text-white">both Layer 1 and Layer 2 scaling</strong>.
         </p>
       </div>
     </div>
