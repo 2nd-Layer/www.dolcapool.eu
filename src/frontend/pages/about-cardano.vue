@@ -22,7 +22,7 @@
         </p>
         <!-- CTA end -->
         <p>
-          In addition similarly to Bitcoin, <strong class="has-text-white">Cardano</strong> usses <strong class="has-text-white">UTXO</strong> accounting model, <strong class="has-text-white">Extended UTXO</strong> (<strong class="has-text-white">eUTXO</strong>) specifically to enable <strong class="has-text-white">Proof-of-Stake</strong> and formally verifiable <strong class="has-text-white">Plutus Smart Contracts</strong>. Compared to <strong class="has-text-white">Account based</strong> accounting model, <strong class="has-text-white">eUTXO</strong> accounting model provides greater opportunities for scaling on both <strong class="has-text-white">Layer 1</strong> and <strong class="has-text-white">Layer 2</strong>.
+          In addition similarly to Bitcoin, <strong class="has-text-white">Cardano</strong> usses <strong class="has-text-white">UTXO</strong> accounting model, <strong class="has-text-white">Extended UTXO</strong> (<strong class="has-text-white">eUTXO</strong> - <a href="https://iohk.io/en/research/library/papers/the-extended-utxo-model/">pre-print paper - The Extended UTXO Model</a> [<a href="https://link.springer.com/chapter/10.1007/978-3-030-54455-3_37">Springer Link</a>]) specifically to enable <strong class="has-text-white">Proof-of-Stake</strong> and formally verifiable <strong class="has-text-white">Plutus Smart Contracts</strong>. Compared to <strong class="has-text-white">Account based</strong> accounting model, <strong class="has-text-white">eUTXO</strong> accounting model provides greater opportunities for scaling on both <strong class="has-text-white">Layer 1</strong> and <strong class="has-text-white">Layer 2</strong>.
         </p>
       </div>
     </div>
