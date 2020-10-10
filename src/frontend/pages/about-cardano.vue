@@ -151,7 +151,7 @@
       </div>
       <div class="column is-narrow">
         <div class="token-image mb-40" style="filter: invert(100%);">
-          <img src="/_nuxt/img/ouroboros.fad40a7.svg" alt="Ouroboros Image">
+          <img :src="hydraImage" alt="Hydra Logo">
         </div>
       </div>
     </div>
@@ -163,7 +163,8 @@ export default {
   data() {
     return {
       cardanoLogo: require('@/assets/images/coins/Cardano-coin-ADA-symbol.svg'),
-      ouroborosImage: require('@/assets/images/icons/ouroboros.svg')
+      ouroborosImage: require('@/assets/images/icons/ouroboros.svg'),
+      hydraImage: require('@/assets/images/icons/hydra.svg')
     }
   }
 }
