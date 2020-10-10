@@ -42,7 +42,7 @@
           </ul>
         </p>
         <p class="content pl-2">
-          Current Cardano Shelley Mainnet operates using <a href="https://eprint.iacr.org/2017/573">Ouroboros Praos</a> Proof-of-Stake consensus mechanism. Two major values influencing the network topology are <code>k</code> which controls the amount of stakepools the system should converge to, that is currently set to <strong class="has-text-white">150</strong>, based on Cardano Shelley Incentivized Testnet, this should bring effective amount of pools to <i>250</i> - <i>300</i>. Another such important parameter is <code>a0</code> which drives the influence of <strong class="has-text-white">owners stake</strong>  (also called <strong class="has-text-white">pledge</strong> on rewards for himself and his delegates. With current setting of <code>a0</code> set to <i>0.3</i>.
+          Current Cardano Shelley Mainnet operates using <a href="https://eprint.iacr.org/2017/573">Ouroboros Praos</a> Proof-of-Stake consensus mechanism. Two major values influencing the network topology are <code>k</code> which controls the amount of stakepools the system should converge to, that is currently set to <strong class="has-text-white">{{ kValue }}</strong>, based on Cardano Shelley Incentivized Testnet, this should bring effective amount of pools to <i>250</i> - <i>300</i>. Another such important parameter is <code>a0</code> which drives the influence of <strong class="has-text-white">owners stake</strong>  (also called <strong class="has-text-white">pledge</strong> on rewards for himself and his delegates. With current setting of <code>a0</code> set to <i>{{ a0Value }}</i>.
         </p>
         <!-- CTA -->
         <p>
@@ -159,16 +159,34 @@
 </template>
 
 <script>
+import axios from 'axios';
+
 export default {
   data() {
     return {
+      protocol: null,
       cardanoLogo: require('@/assets/images/coins/Cardano-coin-ADA-symbol.svg'),
       ouroborosImage: require('@/assets/images/icons/ouroboros.svg'),
       eUTXOImage: require('@/assets/images/icons/ouroboros.svg'),
       marloweImage: require('@/assets/images/icons/marlowe.svg'),
       plutusImage: require('@/assets/images/icons/plutus.svg'),
-      hydraImage: require('@/assets/images/icons/hydra.svg')
+      hydraImage: require('@/assets/images/icons/hydra.svg'),
+    };
+  },
+  computed: {
+    a0Value() {
+      return this.protocol.a0;
+    },
+    kValue() {
+      return this.protocol.nOpt;
     }
+  },
+  mounted() {
+    axios.get('https://js.adapools.org/protocol.json').then((resp) => {
+      if (resp.status === 200 && resp.data.data) {
+        this.protocol = resp.data.data;
+      }
+    });
   }
 }
 </script>
