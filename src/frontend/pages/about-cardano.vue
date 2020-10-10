@@ -22,7 +22,7 @@
         </p>
         <!-- CTA end -->
         <p>
-          In addition similarly to Bitcoin, it usses UTXO accounting model, Extended UTXO specifically to enable <strong class="has-text-white">Proof-of-Stake</strong> and <strong class="has-text-white">Smart Contracts</strong>. Compared to <strong class="has-text-white">Account based accounting model</strong>, it provides greater opportunities for scaling for <strong class="has-text-white">both Layer 1 and Layer 2 scaling</strong>.
+          In addition similarly to Bitcoin, <strong style="has-text-white">Cardano</strong> usses <strong style="has-text-white">UTXO</strong> accounting model, <strong style="has-text-white">Extended UTXO</strong> (<strong style="has-text-white">eUTXO</strong>) specifically to enable <strong class="has-text-white">Proof-of-Stake</strong> and formally verifiable <strong class="has-text-white">Plutus Smart Contracts</strong>. Compared to <strong class="has-text-white">Account based accounting model</strong>, <strong style="has-text-white">eUTXO</strong> accounting model provides greater opportunities for scaling om both <strong class="has-text-white">Layer 1</strong> and <strong style="has-text-white">Layer 2</strong>.
         </p>
       </div>
     </div>
