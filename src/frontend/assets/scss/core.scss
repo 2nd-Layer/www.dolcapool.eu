@@ -11,6 +11,10 @@
 0. Body
 ========================================================================== */
 
+strong, .subtitle strong {
+  color: $white;
+}
+
 .landing-wrapper {
   background:
     url(../images/bg/gradient-left-darker.png) repeat-y top left,
