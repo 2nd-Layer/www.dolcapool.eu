@@ -11,8 +11,16 @@
           About Cardano
         </h2>
         <p class="content pl-2">
-          Cardano is a 3<sup>rd</sup> generation blockchain, project started in 2015 and debuted publicly in late 2017. Cardano uses proof-of-stake consensus and relies heavily on peer-reviewed science. Cardano uses unique, provably secure Proof-of-stake consensus algorithm from the Ouroboros family.
+          Cardano is a 3<sup>rd</sup> generation blockchain, project started in 2015 and debuted publicly in late 2017. Cardano uses Proof-of-Stake consensus and relies heavily on peer-reviewed science. Cardano uses unique, provably secure Proof-of-Stake consensus algorithm from the Ouroboros family. Native token enabling stakeholders to participate in consensus is <strong class="has-text-white">ADA</strong>, with symbol <strong class="has-text-white">₳</strong>.
         </p>
+        <!-- CTA -->
+        <p>
+          <nuxt-link to="/begin-staking-now/" class="button k-button k-primary raised has-gradient is-fat is-bold">
+            <span class="text">Stake your <strong class="has-text-white">₳</strong> now</span>
+            <span class="front-gradient"></span>
+          </nuxt-link>
+        </p>
+        <!-- CTA end -->
         <p>
           In addition similarly to Bitcoin, it usses UTXO accounting model, Extended UTXO specifically to enable <strong class="has-text-white">Proof-of-Stake</strong> and <strong class="has-text-white">Smart Contracts</strong>. Compared to <strong class="has-text-white">Account based accounting model<strong class="has-text-white">, it provides greater opportunities for scaling than <strong class="has-text-white">Account based accounting model<strong class="has-text-white">.
         </p>
@@ -43,6 +51,7 @@
             <span class="front-gradient"></span>
           </nuxt-link>
         </p>
+        <!-- CTA end -->
       </div>
       <div class="column is-narrow">
         <div class="token-image mb-40" style="filter: invert(100%);">
