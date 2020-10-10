@@ -22,7 +22,7 @@
         </p>
         <!-- CTA end -->
         <p>
-          In addition similarly to Bitcoin, <strong style="has-text-white">Cardano</strong> usses <strong style="has-text-white">UTXO</strong> accounting model, <strong style="has-text-white">Extended UTXO</strong> (<strong style="has-text-white">eUTXO</strong>) specifically to enable <strong class="has-text-white">Proof-of-Stake</strong> and formally verifiable <strong class="has-text-white">Plutus Smart Contracts</strong>. Compared to <strong class="has-text-white">Account based accounting model</strong>, <strong style="has-text-white">eUTXO</strong> accounting model provides greater opportunities for scaling om both <strong class="has-text-white">Layer 1</strong> and <strong style="has-text-white">Layer 2</strong>.
+          In addition similarly to Bitcoin, <strong class="has-text-white">Cardano</strong> usses <<strong class="has-text-white">UTXO</strong> accounting model, <strong class="has-text-white">Extended UTXO</strong> (<strong class="has-text-white">eUTXO</strong>) specifically to enable <strong class="has-text-white">Proof-of-Stake</strong> and formally verifiable <strong class="has-text-white">Plutus Smart Contracts</strong>. Compared to <strong class="has-text-white">Account based accounting model</strong>, <strong class="has-text-white">eUTXO</strong> accounting model provides greater opportunities for scaling om both <strong class="has-text-white">Layer 1</strong> and <strong class="has-text-white">Layer 2</strong>.
         </p>
       </div>
     </div>
@@ -42,7 +42,7 @@
           </ul>
         </p>
         <p class="content pl-2">
-          Current Cardano Shelley Mainnet operates using <a href="https://eprint.iacr.org/2017/573">Ouroboros Praos</a> Proof-of-Stake consensus mechanism. Two major values influencing the network topology are <code>k</code> which controls the amount of stakepools the system should converge to, that is currently set to <strong class="has-text-white">150</strong>, based on Cardano Shelley Incentivized Testnet, this should bring effective amount of pools to <i>250</i> - <i>300</i>. Another such important parameter is <code>a0</code> which drives the influence of <strong class="has-text-white">owners stake</strong>  (also called <strong class="has-text-white">pledge</strong> on rewards for himself and his delegates. With current setting of <code>a0</code> set to <i>a0.3</i>.
+          Current Cardano Shelley Mainnet operates using <a href="https://eprint.iacr.org/2017/573">Ouroboros Praos</a> Proof-of-Stake consensus mechanism. Two major values influencing the network topology are <code>k</code> which controls the amount of stakepools the system should converge to, that is currently set to <strong class="has-text-white">150</strong>, based on Cardano Shelley Incentivized Testnet, this should bring effective amount of pools to <i>250</i> - <i>300</i>. Another such important parameter is <code>a0</code> which drives the influence of <strong class="has-text-white">owners stake</strong>  (also called <strong class="has-text-white">pledge</strong> on rewards for himself and his delegates. With current setting of <code>a0</code> set to <i>0.3</i>.
         </p>
         <!-- CTA -->
         <p>
