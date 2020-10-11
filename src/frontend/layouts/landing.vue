@@ -11,14 +11,10 @@
         <div class="hero-foot">
           <div class="container">
             <div class="is-centered coin-list">
-<<<<<<< HEAD
-              <nuxt-link :to="localePath('/about-cardano/')">
-=======
-              <a href="https://www.perlur.cloud/">
-                <img class="hero-logo" :src="perlurLogo" alt="PERLUR Group Logo">
+              <a href="https://www.2ndlayer.eu/">
+                <img class="hero-logo" :src="perlurLogo" alt="PERLUR Groupd Logo">
               </a>
-              <nuxt-link to="/about-cardano/">
->>>>>>> master
+              <nuxt-link :to="localePath('/about-cardano/')">
                 <img class="hero-logo" :src="cardanoLogo" alt="Cardano Logo">
               </nuxt-link>
               <a href="https://www.2ndlayer.eu/">
