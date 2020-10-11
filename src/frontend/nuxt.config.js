@@ -51,7 +51,7 @@ export default {
         file: 'en-US.js'
       },
       {
-        code: 'cz',
+        code: 'cs',
         file: 'cz-CZ.js'
       },
     ],
