@@ -6,7 +6,7 @@
         <div class="column is-6 landing-caption">
           <h1 class="title is-1 is-light is-semibold is-spaced main-title">{{ $t('homepageWelcome') }}</h1>
           <h2 class="subtitle is-6 is-light is-thin">
-            <strong class="has-text-white">{{ $t('homepageText1')}}</strong> {{ $t('homepageText2')}}
+            <strong>{{ $t('homepageText1')}}</strong> {{ $t('homepageText2')}}
             <nuxt-link :to="localePath('/about-cardano/')">{{ $t('homepageText3')}}</nuxt-link>{{ $t('homepageText4')}}
           </h2>
           <!-- CTA -->

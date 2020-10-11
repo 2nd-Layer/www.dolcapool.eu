@@ -11,9 +11,19 @@
         <div class="hero-foot">
           <div class="container">
             <div class="is-centered coin-list">
+<<<<<<< HEAD
               <nuxt-link :to="localePath('/about-cardano/')">
+=======
+              <a href="https://www.perlur.cloud/">
+                <img class="hero-logo" :src="perlurLogo" alt="PERLUR Group Logo">
+              </a>
+              <nuxt-link to="/about-cardano/">
+>>>>>>> master
                 <img class="hero-logo" :src="cardanoLogo" alt="Cardano Logo">
               </nuxt-link>
+              <a href="https://www.2ndlayer.eu/">
+                <img class="hero-logo" :src="layerLogo" alt="2nd Layer Logo">
+              </a>
             </div>
           </div>
         </div>
@@ -28,6 +38,8 @@
       return {
         color: ["#5507fc"],
         cardanoLogo: require('@/assets/images/coins/Cardano-coin-ADA-symbol.svg'),
+        layerLogo: require('@/assets/images/logos/2nd-layer-logo-white.svg'),
+        perlurLogo: require('@/assets/images/logos/perlur-logo-white.svg'),
         tezosLogo: require('@/assets/images/coins/Tezos-coin-XTZ-symbol.svg')
       };
     },
