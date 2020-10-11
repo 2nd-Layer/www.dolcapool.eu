@@ -82,7 +82,7 @@
         switch (code) {
         case 'en':
           return 'English';
-        case 'cz':
+        case 'cs':
           return 'Czech';
         }
         return 'N/A';
