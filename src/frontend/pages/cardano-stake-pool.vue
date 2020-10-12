@@ -56,8 +56,8 @@
                 <div class="side-feature-content">
                   <h3 class="title is-4 is-light">{{ $t('networkGovernance') }}</h3>
                   <div class="divider"></div>
-                  <p class="is-light my-3" v-html="$t('networkGovernanceText1')"></p>
-                  <p class="is-light my-3" v-html="$t('networkGovernanceText2')"></p>
+                  <p class="is-light my-3"><nuxt-link to="/dolca-stake-poool-team/">As a team of Stake Pool Owners and Operators</nuxt-link>, we feel obliged to provide expert advice to our <strong>stake delegates</strong> about on-chain Governance in the areas of both the <nuxt-link to="/about-cardano/">Technicals of Cardano Blockchain</nuxt-link>, as well as investments in <a href="https://iohk.io/en/blog/posts/2020/09/10/project-catalyst-voltaire-bring-power-to-the-people/">Project Catalyst</a> ideas.</p>
+                  <p class="is-light my-3">Our team comprises of experts in the fields of Networking, IT infrastructure, <nuxt-link to="/partnership-with-dCloud/">Cloud</nuxt-link>, DevOps and <nuxt-link to="/about-cardano/">Blockchain Technology</nuxt-link> as well as Software Development...</p>
                 </div>
               </div>
               <!-- Feature image -->
