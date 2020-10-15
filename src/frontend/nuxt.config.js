@@ -35,6 +35,19 @@ export default {
       hostname: 'https://www.dolcapool.eu/',
       gzip: true,
   },
+
+  /**
+   * Optimize Images during build
+   */
+  buildModules: [
+    '@aceforth/nuxt-optimized-images',
+  ],
+
+  optimizedImages: {
+    optimizeImages: true,
+    optimizeImagesInDev: true
+  },
+
   /*
   ** Global CSS
   */
