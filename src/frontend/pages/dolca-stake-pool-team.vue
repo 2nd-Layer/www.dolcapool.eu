@@ -23,7 +23,7 @@
           <p class="is-light">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           </p>
-          <span class="is-block has-text-centered has-text-weight-light my-6">
+          <span class="is-block  has-text-centered has-text-weight-bold mt-5 mb-2">
             Connect with Tomas
           </span>
           <p class="has-text-centered">
@@ -51,7 +51,7 @@
           <p class="is-light">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
           </p>
-          <span class="is-block has-text-centered has-text-weight-light my-6">
+          <span class="is-block  has-text-centered has-text-weight-bold mt-5 mb-2">
             Connect with Mark
           </span>
           <p class="has-text-centered">
@@ -87,13 +87,13 @@
         </div>
         <div class="column">
           <figure class="image is-square m-3">
-            <img class="is-rounded" :src="mark_stopka">
+            <img class="is-rounded" :src="cody_butz">
           </figure>
           <h4 class="title is-2 my-6 has-text-centered">Cody Butz</h4>
           <p class="is-light">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+            Cody is an outgoing, enthusiastic web application developer who aspires to learn new technologies everyday. His love for Cardano grew in 2018 when watching Sebastien Guillemot's update videos on YouTube. When not busy at working on DOLCA, Cody loves to go out boating, fishing, and having a great time with family and friends.
           </p>
-          <span class="is-block has-text-centered has-text-weight-light my-6">
+          <span class="is-block  has-text-centered has-text-weight-bold mt-5 mb-2">
             Connect with Cody
           </span>
           <p class="has-text-centered">
@@ -130,6 +130,7 @@ export default {
   data() {
     return {
       mark_stopka: require('@/assets/images/our_team/mark_stopka.png'),
+      cody_butz: require('@/assets/images/our_team/cody_butz.png')
     };
   }
 }
