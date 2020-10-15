@@ -175,18 +175,16 @@ export default {
   },
   computed: {
     a0Value() {
-      if (!this.protocol) return '0.5';
-      return this.protocol.a0;
+      if (this.protocol !== null) return this.protocol.a0;
     },
     kValue() {
-      if (!this.protocol) return '200';
-      return this.protocol.nOpt;
+      if (this.protocol !== null) this.protocol.nOpt;
     }
   },
   mounted() {
     axios.get('https://js.adapools.org/protocol.json').then((resp) => {
-      if (resp.status === 200 && resp.data.data) {
-        this.protocol = resp.data.data;
+      if (resp.status === 200 && resp.data) {
+        this.protocol = resp.data;
       }
     });
   }
