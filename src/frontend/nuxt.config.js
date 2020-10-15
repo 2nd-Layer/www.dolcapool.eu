@@ -26,6 +26,7 @@ export default {
     'nuxt-buefy',
     '@nuxtjs/sitemap',
     '@nuxt/components',
+    'nuxt-i18n',
     ['@nuxtjs/google-analytics', {
       id: 'UA-113467444-4'
     }]
@@ -55,5 +56,27 @@ export default {
   ],
   plugins: [
     '@/plugins/particles'
-  ]
+  ],
+  i18n: {
+    locales: [
+      {
+        code: 'en',
+        file: 'en-US.js'
+      },
+      {
+        code: 'cs',
+        file: 'cz-CZ.js'
+      },
+    ],
+    defaultLocale: 'en',
+    detectBrowserLanguage: {
+      useCookie: true,
+      cookieKey: 'i18n_redirected',
+    },
+    lazy: true,
+    langDir: 'lang/',
+    vueI18n: {
+      fallbackLocale: 'en'
+    }
+  }
 }
