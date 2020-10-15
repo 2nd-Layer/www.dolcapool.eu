@@ -21,7 +21,7 @@
           </figure>
           <h4 class="title is-2 my-6 has-text-centered">Tomas Drastich</h4>
           <p class="is-light">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            Tomáš has an Information Technology experience since 2003, when he established his own Wireless Internet Service Provider (<strong>WISP</strong>) during the early days of building the Internet infrastructure of Czech Republic. He lives, just like Mark, in the city of Ostrava, Czech Republic. In addition to his job as an Internet Service Provider, he also works in the Networking department of a major European Information Technology Company - <a href="https://www.tieto.com/">TietoEVRY</a>.
           </p>
           <span class="is-block  has-text-centered has-text-weight-bold mt-5 mb-2">
             Connect with Tomas
