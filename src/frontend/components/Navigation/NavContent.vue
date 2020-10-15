@@ -41,7 +41,7 @@
       </a>
     </div>
 
-    <div class="navbar-item">
+    <div class="navbar-item" v-if="availableLocales.length > 1">
       <div class="field">
         <div class="control">
           <div class="select locale-switcher">
