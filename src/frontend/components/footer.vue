@@ -4,7 +4,7 @@
       <!-- Logo -->
       <div class="footer-logo">
         <a href="/">
-          <img :src="logo" alt="DOLCA Stake Pool Logo">
+          <img :src="logo" alt="DOLCA Stake Pool Logo" />
           <div class="brand-subtitle">Multi-Ledger Staking Services</div>
         </a>
       </div>
@@ -15,12 +15,13 @@
           <!-- Links group -->
           <ul class="footer-links">
             <li>
-              <nuxt-link to="/cardano-stake-pool">Cardano Stake Pool</nuxt-link>
+              <nuxt-link to="/cardano-stake-pool">
+                Cardano Stake Pool
+              </nuxt-link>
             </li>
             <li>
-              <nuxt-link to="/tezos-bakery">Tezos Bakery</nuxt-link>
+              <nuxt-link to="/tezos-bakery"> Tezos Bakery </nuxt-link>
             </li>
-
           </ul>
         </div>
         <!-- Newsletter -->
@@ -30,7 +31,12 @@
               <!-- Field -->
               <div class="control">
                 <!-- Special input -->
-                <input class="krypton-subscribe-input" type="email" name="email" placeholder="">
+                <input
+                  class="krypton-subscribe-input"
+                  type="email"
+                  name="email"
+                  placeholder=""
+                />
                 <button class="subscribe-button">
                   <span>Subscribe</span>
                 </button>
@@ -52,13 +58,18 @@
         </div>
       </div>
       <!-- Copyright -->
-      <p v-if="new Date().getFullYear() > 2020" class="k-copyright">© 2020 – {{ new Date().getFullYear() }} | 2ⁿᵈ Layer. All Rights Reserved.</p>
-      <p v-else class="k-copyright">© 2020 | DOLCA stake pool. All Rights Reserved.</p>
-      <br>
+      <p v-if="new Date().getFullYear() > 2020" class="k-copyright">
+        © 2020 – {{ new Date().getFullYear() }} | 2ⁿᵈ Layer. All Rights
+        Reserved.
+      </p>
+      <p v-else class="k-copyright">
+        © 2020 | DOLCA stake pool. All Rights Reserved.
+      </p>
+      <br />
     </div>
 
     <!-- Absolute image -->
-    <img class="solar-system" :src="solarSystem" alt="N/A">
+    <img class="solar-system" :src="solarSystem" alt="N/A" />
   </footer>
 </template>
 
@@ -66,9 +77,9 @@
 export default {
   data() {
     return {
-      logo: require('@/assets/images/logos/logo-white.svg'),
-      solarSystem: require('@/assets/images/bg/solar.svg')
+      logo: require("@/assets/images/logos/logo-white.svg"),
+      solarSystem: require("@/assets/images/bg/solar.svg"),
     }
-  }
+  },
 }
 </script>
