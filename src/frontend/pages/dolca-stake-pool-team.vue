@@ -27,17 +27,17 @@
             Connect with Tomas
           </span>
           <p class="has-text-centered">
-            <a href="https://www.github.com" target="_blank" class="is-inline-block mx-4">
+            <a href="https://www.linkedin.com/in/tomáš-drastich-2b4a806b/" target="_blank" class="is-inline-block mx-4">
+                <span class="icon is-large">
+                  <span class="fa-stack fa-lg">
+                    <i class="fab fa-3x fa-linkedin"></i>
+                  </span>
+                </span>
+            </a>
+            <a href="https://github.com/drastys/" target="_blank" class="is-inline-block mx-4">
               <span class="icon is-large">
                 <span class="fa-stack fa-lg">
                   <i class="fab fa-3x fa-github"></i>
-                </span>
-              </span>
-            </a>
-            <a href="https://www.twitter.com" target="_blank" class="is-inline-block mx-4">
-              <span class="icon is-large">
-                <span class="fa-stack fa-lg">
-                  <i class="fab fa-3x fa-twitter"></i>
                 </span>
               </span>
             </a>
@@ -55,24 +55,31 @@
             Connect with Mark
           </span>
           <p class="has-text-centered">
-            <a href="https://www.github.com" target="_blank" class="is-inline-block mx-4">
+            <a href="https://www.linkedin.com/in/markstopka/" target="_blank" class="is-inline-block mx-4">
+                <span class="icon is-large">
+                  <span class="fa-stack fa-lg">
+                    <i class="fab fa-3x fa-linkedin"></i>
+                  </span>
+                </span>
+            </a>
+            <a href="https://github.com/mark-stopka/" target="_blank" class="is-inline-block mx-4">
               <span class="icon is-large">
                 <span class="fa-stack fa-lg">
                   <i class="fab fa-3x fa-github"></i>
                 </span>
               </span>
             </a>
-            <a href="https://www.twitter.com" target="_blank" class="is-inline-block mx-4">
+            <a href="https://twitter.com/LiberalMark/" target="_blank" class="is-inline-block mx-4">
               <span class="icon is-large">
                 <span class="fa-stack fa-lg">
                   <i class="fab fa-3x fa-twitter"></i>
                 </span>
               </span>
             </a>
-            <a href="https://www.linkedin.com" target="_blank" class="is-inline-block mx-4">
+            <a href="https://www.youtube.com/channel/UCp-grc_OkwssH4XcSU7Loyw/" target="_blank" class="is-inline-block mx-4">
                 <span class="icon is-large">
                   <span class="fa-stack fa-lg">
-                    <i class="fab fa-3x fa-linkedin"></i>
+                    <i class="fab fa-3x fa-youtube"></i>
                   </span>
                 </span>
             </a>
@@ -90,26 +97,26 @@
             Connect with Cody
           </span>
           <p class="has-text-centered">
-            <a href="https://www.github.com" target="_blank" class="is-inline-block mx-4">
+            <a href="https://www.linkedin.com/in/cody-butz-b4b16a37/" target="_blank" class="is-inline-block mx-4">
+                <span class="icon is-large">
+                  <span class="fa-stack fa-lg">
+                    <i class="fab fa-3x fa-linkedin"></i>
+                  </span>
+                </span>
+            </a>
+            <a href="https://github.com/codybutz/" target="_blank" class="is-inline-block mx-4">
               <span class="icon is-large">
                 <span class="fa-stack fa-lg">
                   <i class="fab fa-3x fa-github"></i>
                 </span>
               </span>
             </a>
-            <a href="https://www.twitter.com" target="_blank" class="is-inline-block mx-4">
+            <a href="https://twitter.com/codyjbutz/" target="_blank" class="is-inline-block mx-4">
               <span class="icon is-large">
                 <span class="fa-stack fa-lg">
                   <i class="fab fa-3x fa-twitter"></i>
                 </span>
               </span>
-            </a>
-            <a href="https://www.linkedin.com" target="_blank" class="is-inline-block mx-4">
-                <span class="icon is-large">
-                  <span class="fa-stack fa-lg">
-                    <i class="fab fa-3x fa-linkedin"></i>
-                  </span>
-                </span>
             </a>
           </p>
         </div>
