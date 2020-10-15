@@ -48,10 +48,13 @@
             <img class="is-rounded" :src="mark_stopka">
           </figure>
           <h4 class="title is-2 my-6 has-text-centered">Mark Stopka</h4>
-          <p class="is-light">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+          <p class="is-light p-6">
+            Mark has IT experience since about a year 2000, he is an contributor to open-source software since he was 15 years old and started working in Information Technology in 2009. His professional career gave him an opportunity to work for few major players in the industry such as <a href="https://www.tieto.com/">Tieto</a>, <a href="https://www.netapp.com/">NetApp</a>.
           </p>
-          <span class="is-block  has-text-centered has-text-weight-bold mt-5 mb-2">
+          <p class="is-light pt-2">
+            Later he took a role of an Indepentent Consultant in the areas of Data Storage, Business Continuity, Disaster Recovery and IT Governance as a whole. During the little free time he has, he enjoys spending time with his lovely Jack Russell named Jarvis and his friends, likes beer and thinks a lot about how Distributed Ledger Technology and Cryptocurrencies can lead to better, more fair future for all.
+          </p>
+          <span class="is-block has-text-centered has-text-weight-bold mt-5 mb-2">
             Connect with Mark
           </span>
           <p class="has-text-centered">
@@ -91,7 +94,7 @@
           </figure>
           <h4 class="title is-2 my-6 has-text-centered">Cody Butz</h4>
           <p class="is-light">
-            Cody is an outgoing, enthusiastic web application developer who aspires to learn new technologies everyday. His love for Cardano grew in 2018 when watching Sebastien Guillemot's update videos on YouTube. When not busy at working on DOLCA, Cody loves to go out boating, fishing, and having a great time with family and friends.
+            Cody is an outgoing, enthusiastic web application developer who aspires to learn new technologies everyday. His love for Cardano grew in 2018 when watching Sebastien Guillemot's update videos on YouTube. When not busy at working on <nuxt-link to="/">DOLCA</nuxt-link>, Cody loves to go out boating, fishing, and having a great time with his beloved dog, family and friends.
           </p>
           <span class="is-block  has-text-centered has-text-weight-bold mt-5 mb-2">
             Connect with Cody
