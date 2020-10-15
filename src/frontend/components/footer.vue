@@ -15,10 +15,10 @@
           <!-- Links group -->
           <ul class="footer-links">
             <li>
-              <nuxt-link to="/cardano-stake-pool">Cardano Stake Pool</nuxt-link>
+              <nuxt-link to="/cardano-stake-pool">{{ $t('cardanoStakePool') }}</nuxt-link>
             </li>
             <li>
-              <nuxt-link to="/tezos-bakery">Tezos Bakery</nuxt-link>
+              <nuxt-link to="/tezos-bakery">{{ $t('tezosBakery') }}</nuxt-link>
             </li>
 
           </ul>
@@ -32,7 +32,7 @@
                 <!-- Special input -->
                 <input class="krypton-subscribe-input" type="email" name="email" placeholder="">
                 <button class="subscribe-button">
-                  <span>Subscribe</span>
+                  <span>{{ $t('subscribe') }}</span>
                 </button>
               </div>
             </form>

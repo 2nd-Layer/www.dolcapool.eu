@@ -1,0 +1,21 @@
+.locale-switcher {
+  select {
+    background-color: transparent;
+    border-color: transparent;
+    color: white;
+
+    &:focus {
+      border-color: transparent;
+      box-shadow: none;
+      outline: none;
+    }
+  }
+
+  &:not(.is-multiple):not(.is-loading)::after {
+    border-color: rgba(127, 0, 255, 0.9);
+  }
+
+  &:not(.is-multiple):not(.is-loading):hover::after {
+    border-color: white;
+  }
+}
