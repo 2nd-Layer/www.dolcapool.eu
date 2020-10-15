@@ -42,7 +42,7 @@
           </ul>
         </p>
         <p class="content pl-2">
-          Current Cardano Shelley Mainnet operates using <a href="https://eprint.iacr.org/2017/573">Ouroboros Praos</a> Proof-of-Stake consensus mechanism. Two major values influencing the network topology are <code>k</code> which controls the amount of stakepools the system should converge to, that is currently set to <strong>{{ kValue }}</strong>, based on Cardano Shelley Incentivized Testnet, this should bring effective amount of pools to <i>250</i> - <i>300</i>. Another such important parameter is <code>a0</code> which drives the influence of <strong>owners stake</strong>  (also called <strong>pledge</strong> on rewards for himself and his delegates. With current setting of <code>a0</code> set to <i>{{ a0Value }}</i>.
+          Current Cardano Shelley Mainnet operates using <a href="https://eprint.iacr.org/2017/573">Ouroboros Praos</a> Proof-of-Stake consensus mechanism. Two major values influencing the network topology are <code>k</code> which controls the amount of stakepools the system should converge to, that is currently set to <strong>{{ kValue }}</strong>, based on Cardano Shelley Incentivized Testnet, this should bring effective amount of pools to <i>250</i> - <i>300</i>. Another such important parameter is <code>a0</code> which drives the influence of <strong>owners stake</strong>  (also called <strong>pledge</strong> on rewards for himself and his delegates. With current setting of <code>a0</code> set to <strong>{{ a0Value }}</strong>.
         </p>
         <!-- CTA -->
         <p>
@@ -178,7 +178,7 @@ export default {
       if (this.protocol !== null) return this.protocol.a0;
     },
     kValue() {
-      if (this.protocol !== null) this.protocol.nOpt;
+      if (this.protocol !== null) return this.protocol.nOpt;
     }
   },
   mounted() {
