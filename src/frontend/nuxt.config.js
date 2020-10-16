@@ -35,6 +35,7 @@ export default {
     "nuxt-buefy",
     "@nuxtjs/sitemap",
     "@nuxt/components",
+    'nuxt-i18n',
     [
       "@nuxtjs/google-analytics",
       {
@@ -46,9 +47,48 @@ export default {
     hostname: "https://www.dolcapool.eu/",
     gzip: true,
   },
-  /*
-   ** Global CSS
+
+  /**
+   * Optimize Images during build
    */
-  css: ["@/assets/scss/core.scss"],
-  plugins: ["@/plugins/particles"],
+  buildModules: [
+    '@aceforth/nuxt-optimized-images',
+  ],
+
+  optimizedImages: {
+    optimizeImages: true,
+    optimizeImagesInDev: true
+  },
+
+  /*
+  ** Global CSS
+  */
+  css: [
+    '@/assets/scss/core.scss'
+  ],
+  plugins: [
+    '@/plugins/particles'
+  ],
+  i18n: {
+    locales: [
+      {
+        code: 'en',
+        file: 'en-US.js'
+      },
+      {
+        code: 'cs',
+        file: 'cz-CZ.js'
+      },
+    ],
+    defaultLocale: 'en',
+    detectBrowserLanguage: {
+      useCookie: true,
+      cookieKey: 'i18n_redirected',
+    },
+    lazy: true,
+    langDir: 'lang/',
+    vueI18n: {
+      fallbackLocale: 'en'
+    }
+  }
 }
