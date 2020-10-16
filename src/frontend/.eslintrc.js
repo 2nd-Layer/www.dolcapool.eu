@@ -18,13 +18,15 @@ module.exports = {
   rules: {
     semi: [2, "never"],
     "linebreak-style": ["error", "unix"],
-    "max-len": [
+    "vue/max-len": [
       "warn",
       {
         ignoreStrings: true,
         tabWidth: 2,
         ignoreUrls: true,
         ignoreTemplateLiterals: true,
+        ignoreHTMLAttributeValues: true,
+        ignoreHTMLTextContents: true,
       },
     ],
     "no-console": "off",
@@ -32,6 +34,11 @@ module.exports = {
     "vue/html-self-closing": "off",
     "vue/singleline-html-element-content-newline": "off",
     "vue/require-prop-types": "off",
-    "prettier/prettier": ["error", { semi: false }],
+    "prettier/prettier": [
+      "warn",
+      {
+        semi: false,
+      },
+    ],
   },
 }
