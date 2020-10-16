@@ -1,9 +1,9 @@
 export const state = () => ({
-  isMobileMenuToggled: false
-});
+  isMobileMenuToggled: false,
+})
 
 export const mutations = {
-  toggle (state) {
-    state.isMobileMenuToggled = !state.isMobileMenuToggled;
-  }
+  toggle(state) {
+    state.isMobileMenuToggled = !state.isMobileMenuToggled
+  },
 }

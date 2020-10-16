@@ -1,12 +1,12 @@
 <template>
   <header>
-    <NavBarClone></NavBarClone>
-    <NavBarStatic></NavBarStatic>
+    <NavBarClone />
+    <NavBarStatic />
   </header>
 </template>
 
 <script>
-  export default {
-    name: 'App'
-  };
+export default {
+  name: "App",
+}
 </script>

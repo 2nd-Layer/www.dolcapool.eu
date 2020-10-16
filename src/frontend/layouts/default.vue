@@ -1,8 +1,8 @@
 <template>
   <div class="page-wrapper">
-    <Header/>
-    <nuxt/>
-    <Footer/>
+    <Header />
+    <nuxt />
+    <Footer />
   </div>
 </template>
 
@@ -10,13 +10,13 @@
 export default {
   data() {
     return {
-      color: '#5507fc'
-    };
-  },
-  head () {
-    return {
-      title: 'DOLCA Stake Pool'
+      color: "#5507fc",
     }
-  }
+  },
+  head() {
+    return {
+      title: "DOLCA Stake Pool",
+    }
+  },
 }
 </script>

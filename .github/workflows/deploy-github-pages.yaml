@@ -16,6 +16,7 @@ jobs:
         run: |
           pushd src/frontend
           npm install
+          npm run lint
           npm run generate
           popd
       - name: Deploy frontend
