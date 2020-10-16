@@ -17,6 +17,7 @@ module.exports = {
   // add your custom rules here
   rules: {
     semi: [2, "never"],
+    "linebreak-style": ["error", "unix"],
     "no-console": "off",
     "vue/max-attributes-per-line": "off",
     "vue/html-self-closing": "off",
