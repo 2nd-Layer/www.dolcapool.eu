@@ -35,7 +35,7 @@ export default {
     "nuxt-buefy",
     "@nuxtjs/sitemap",
     "@nuxt/components",
-    'nuxt-i18n',
+    "nuxt-i18n",
     [
       "@nuxtjs/google-analytics",
       {
@@ -51,44 +51,38 @@ export default {
   /**
    * Optimize Images during build
    */
-  buildModules: [
-    '@aceforth/nuxt-optimized-images',
-  ],
+  buildModules: ["@aceforth/nuxt-optimized-images"],
 
   optimizedImages: {
     optimizeImages: true,
-    optimizeImagesInDev: true
+    optimizeImagesInDev: true,
   },
 
   /*
-  ** Global CSS
-  */
-  css: [
-    '@/assets/scss/core.scss'
-  ],
-  plugins: [
-    '@/plugins/particles'
-  ],
+   ** Global CSS
+   */
+  css: ["@/assets/scss/core.scss"],
+  plugins: ["@/plugins/particles"],
   i18n: {
     locales: [
       {
-        code: 'en',
-        file: 'en-US.js'
+        code: "en",
+        file: "en-US.js",
       },
       {
-        code: 'cs',
-        file: 'cz-CZ.js'
+        code: "cs",
+        file: "cz-CZ.js",
       },
     ],
-    defaultLocale: 'en',
+    defaultLocale: "en",
     detectBrowserLanguage: {
       useCookie: true,
-      cookieKey: 'i18n_redirected',
+      cookieKey: "i18n_redirected",
     },
     lazy: true,
-    langDir: 'lang/',
+    langDir: "lang/",
     vueI18n: {
-      fallbackLocale: 'en'
-    }
-  }
+      fallbackLocale: "en",
+    },
+  },
 }
