@@ -19,7 +19,7 @@ module.exports = {
     semi: [2, "never"],
     "linebreak-style": ["error", "unix"],
     "max-len": [
-      "error",
+      "warn",
       {
         ignoreStrings: true,
         tabWidth: 2,
