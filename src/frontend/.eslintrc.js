@@ -18,6 +18,15 @@ module.exports = {
   rules: {
     semi: [2, "never"],
     "linebreak-style": ["error", "unix"],
+    "max-len": [
+      "error",
+      {
+        ignoreStrings: true,
+        tabWidth: 2,
+        ignoreUrls: true,
+        ignoreTemplateLiterals: true,
+      },
+    ],
     "no-console": "off",
     "vue/max-attributes-per-line": "off",
     "vue/html-self-closing": "off",
