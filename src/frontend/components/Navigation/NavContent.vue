@@ -21,6 +21,16 @@
     <div class="navbar-item is-nav-link">
       <nuxt-link
         class="is-centered-responsive"
+        :to="localePath('/dolca-stake-pool-technology/')"
+      >
+        {{ $t("ourTechnology") }}
+      </nuxt-link>
+    </div>
+
+    <!-- Menu item -->
+    <div class="navbar-item is-nav-link">
+      <nuxt-link
+        class="is-centered-responsive"
         :to="localePath('/better-late-than-never-partnership')"
       >
         {{ $t("bltnPartnership") }}
