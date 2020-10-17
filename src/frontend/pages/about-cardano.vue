@@ -223,11 +223,12 @@
           <!-- CTA end -->
         </div>
       </div>
-      <div class='columns has-text-left'>
-        <div class='column'>
-          <a name='hydra' />
-          <h3 class='subtitle is-4 is-light is-thin pr-2'>
-            Hydra 2<sup>nd</sup> Layer scaling for Extended UTXO
+      <div class="columns has-text-left">
+        <div class="column">
+          <h3 class="subtitle is-4 is-light is-thin pr-2">
+            <a name="hydra">
+              Hydra 2<sup>nd</sup> Layer scaling for Extended UTXO
+            </a>
           </h3>
           <p class="content pl-2" />
           <p class="content pl-2" />
