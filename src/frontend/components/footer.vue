@@ -24,7 +24,7 @@
             alt="2nd Layer Logo"
           />
         </a>
-        <div class="brand-subtitle">Multi-Ledger Staking Services</div>
+        <div class="brand-subtitle">Cardano Blockchain Staking Services</div>
       </div>
 
       <!-- Columns -->
