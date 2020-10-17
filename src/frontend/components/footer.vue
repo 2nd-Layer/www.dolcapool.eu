@@ -82,8 +82,6 @@ export default {
   data() {
     return {
       logo: require("@/assets/images/logos/logo-white.svg"),
-      layerLogo: require("@/assets/images/logos/2nd-layer-logo-white.svg"),
-      perlurLogo: require("@/assets/images/logos/perlur-logo-white.svg"),
       solarSystem: require("@/assets/images/bg/solar.svg"),
     }
   },
