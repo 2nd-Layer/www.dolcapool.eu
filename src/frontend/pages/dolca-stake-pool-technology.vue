@@ -4,7 +4,7 @@
       <div class="columns is-multiline is-1">
         <div class="column is-7">
           <figure class="image">
-            <img :src="dolcaPoolTopology" style="filter: invert(100%);" />
+            <img :src="dolcaPoolTopology" style="filter: invert(100%)" />
           </figure>
         </div>
         <div class="column is-5">
@@ -27,7 +27,9 @@
           <p class="content pt-2 mb-1">
             This level of technical sophistication and automation does not only benefit us and our delegates, but also all <strong>Cardano developers</strong> as it enables us to discover and report any issues with significant notice in order to ensure that the <strong>production releases</strong> used by majority of operators are rock solid when released for general use.
           </p>
-        </div>   
+          <p class="content pt-2 mb-1">
+            But we don't stop just here, we are well aware of security vulnarabilities present in most common proprietary computer architectures, which is why we work hard on adding support for the key <code>cardano-node</code> component to run on RISC-V open-source ISA based CPUs as well as IBM OpenPOWER and IBM SystemZ... We also <a href="https://build.opensuse.org/project/show/devel:languages:haskell:cardano">create Linux distribution packages</a> for various <nuxt-link to="/about-cardano/">Cardano components</nuxt-link>, including <a href="https://daedaluswallet.io/">Daedalus Wallet</a>.
+          </p>
         </div>
       </div>
     </div>
