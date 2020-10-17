@@ -158,7 +158,7 @@
             As it often is, both accounting models offer some advantages and some disadvantages, major advantage of UTXO accounting model is that due to lack of global account state (accounts are emptied during transaction which enables the wallet node to purge it and save memory), smart-contract functionality is easier to implement using account style accounting model, that is however more complicated to scale due to the need to maintain global state of all accounts.
           </p>
            <p class="content pl-2">
-            For these reasons, <a href="https://www.iohk.io/">Input Output Global</a> decided to invent a new model <a href="https://iohk.io/en/research/library/papers/the-extended-utxo-model/">called Extended UTXO</a> which combines the benefits of both Unspent Transaction Outputs accounting and account style accounting. This unique accounting model enables <a href="#hydra">Layer 2 scaling tehcnology like lated described Hydra</a>.
+            For these reasons, <a href="https://www.iohk.io/">Input Output Global</a> decided to invent a new model <a href="https://iohk.io/en/research/library/papers/the-extended-utxo-model/">called Extended UTXO</a> which combines the benefits of both Unspent Transaction Outputs accounting and account style accounting. This unique accounting model enables <a href="#hydra">Layer 2 scaling technology like later described Hydra channels</a>.
           </p>         
           <!-- CTA -->
           <p>
