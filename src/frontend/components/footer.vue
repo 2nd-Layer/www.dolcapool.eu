@@ -3,10 +3,14 @@
     <div class="container">
       <!-- Logo -->
       <div class="footer-logo">
-        <a href="/">
-          <img :src="logo" alt="DOLCA Stake Pool Logo" />
-          <div class="brand-subtitle">Multi-Ledger Staking Services</div>
-        </a>
+        <nuxt-link to="/">
+          <img
+            class="hero-logo"
+            :src="logo"
+            alt="DOLCA Stake Pool Logo"
+          />
+        </nuxt-link>
+        <div class="brand-subtitle">Cardano Blockchain Staking Services</div>
       </div>
 
       <!-- Columns -->
