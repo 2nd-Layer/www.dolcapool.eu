@@ -1,6 +1,7 @@
 export default {
   overview: "Overview",
   cardanoStakePool: "Cardano Stake Pool",
+  ourTechnology: "Our Technology",
   bltnPartnership: "BLTN Partnership",
   beginStakingNow: "Begin Staking Now",
   homepageWelcome: "Cardano (ADA) Staking Services",

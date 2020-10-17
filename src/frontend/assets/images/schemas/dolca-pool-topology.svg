@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="dolca-pool-topology.svg"
+   id="svg563"
+   version="1.1"
+   class="st8"
+   color-interpolation-filters="sRGB"
+   xml:space="preserve"
+   viewBox="0 0 516.51399 493.30427"
+   height="6.851438in"
+   width="7.1737771in"><metadata
+   id="metadata569"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs567" /><sodipodi:namedview
+   inkscape:current-layer="svg563"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-11"
+   inkscape:window-x="-11"
+   inkscape:cy="50.065751"
+   inkscape:cx="401.88642"
+   inkscape:zoom="0.36412682"
+   fit-margin-bottom="0"
+   fit-margin-right="0"
+   fit-margin-left="0"
+   fit-margin-top="0"
+   inkscape:pagecheckerboard="true"
+   showgrid="false"
+   id="namedview565"
+   inkscape:window-height="986"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+	<style
+   id="style2"
+   type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:#000000;font-family:Calibri;font-size:2.50001em}
+		.st4 {font-size:1em}
+		.st5 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st6 {fill:#000000;font-family:Calibri;font-size:1.5em}
+		.st7 {fill:none}
+		.st8 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g
+   transform="translate(-555.499,-786.34257)"
+   id="g561">
+		<title
+   id="title4">Page-1</title>
+		<g
+   transform="translate(727.228,-591.024)"
+   id="group1-1">
+			<title
+   id="title6">Cloud</title>
+			<g
+   transform="translate(0,-73.4767)"
+   id="shape2-2">
+				<title
+   id="title8">Sheet.2</title>
+				<path
+   id="path10"
+   class="st1"
+   d="m 297.15,1504.12 c -1.85,-16.28 -16.65,-29 -34.83,-29 -5.17,0 -10.02,1.08 -14.44,2.9 -8.55,-15.99 -26.24,-27.7 -59.46,-26.75 -43.15,1.23 -94.25,20.65 -104.52,55.12 -12.3,2.35 -20.22,9.01 -24.95,17.89 -1.91,-0.19 -3.85,-0.31 -5.85,-0.31 -28.42,0 -50.24,20.73 -51.48,46.27 -1.62,33.04 23.06,46.27 51.48,46.27 4.07,0 7.99,-0.46 11.79,-1.26 5.9,3.85 13.6,6.21 22.04,6.21 7.8,0 14.98,-2.02 20.69,-5.4 10.93,18.62 33.43,31.72 59.35,30.18 27.3,-1.58 43.68,-7.39 53.34,-16.38 0.61,-0.06 1.17,-0.06 1.79,-0.13 30.51,-3.92 43.93,-11.82 48.25,-24.84 0.8,0.02 1.62,0.04 2.43,0.04 39.58,0 71.63,-11.56 71.63,-52.05 0,-22.49 -19.77,-41.49 -47.26,-48.76 z" />
+			</g>
+		</g>
+		<g
+   transform="translate(800.22,-708.661)"
+   id="shape3-4">
+			<title
+   id="title14">Sheet.3</title>
+			<desc
+   id="desc16">Internet with other nodes</desc>
+			<rect
+   id="rect18"
+   class="st2"
+   height="42.519699"
+   width="179.696"
+   y="1605.26"
+   x="0" />
+			<text
+   id="text22"
+   class="st3"
+   y="1617.52"
+   x="9.6400003">Internet with <tspan
+   id="tspan20"
+   class="st4"
+   dy="1.2em"
+   x="15.95">other nodes</tspan></text>		</g>
+		<g
+   transform="translate(743.528,-368.504)"
+   id="shape9-8">
+			<title
+   id="title25">Sheet.9</title>
+			<rect
+   id="rect27"
+   class="st1"
+   height="103.465"
+   width="235.98399"
+   y="1544.3101"
+   x="0" />
+		</g>
+		<g
+   transform="translate(908.646,-375.591)"
+   id="group4-10">
+			<title
+   id="title30">Public/Private access server</title>
+			<g
+   transform="translate(22.2761,-14.9483)"
+   id="shape5-11">
+				<title
+   id="title32">Sheet.5</title>
+				<path
+   id="path34"
+   class="st5"
+   d="M 0,1647.78 H 16.18" />
+			</g>
+			<g
+   transform="translate(38.4608)"
+   id="shape6-14">
+				<title
+   id="title37">Sheet.6</title>
+				<rect
+   id="rect39"
+   class="st1"
+   height="31.9848"
+   width="20.418699"
+   y="1615.79"
+   x="0" />
+			</g>
+			<g
+   transform="translate(11.9866,-5.24247)"
+   id="shape7-16">
+				<title
+   id="title42">Sheet.7</title>
+				<path
+   id="path44"
+   class="st1"
+   d="m 6.86,1602.15 v 26.1 l 3.48,2.66 3.38,-2.66 v -2.74 h 0.91 v -4.43 l -0.98,-0.78 v -1.79 l 0.98,-0.24 v -2.7 l -1.09,-1.22 1.09,-0.77 v -2.27 l -0.98,-0.34 -0.07,-2.75 1.05,-0.28 v -2.92 l -0.91,-0.55 v -2.32 a 10.2894,10.2894 -180 1 0 -6.86,0 z m 4.63,-16.28 a 1.08,1.08001 -180 1 0 -2.16,0 1.08,1.08001 -180 1 0 2.16,0 z m 22.85,57.06 h 9.96 v -0.8 h -9.96 z m 0,2.42 h 9.96 v -0.8 h -9.96 z m 0,2.43 h 9.96 v -0.8 h -9.96 z m 9.75,-9.65 a 1.23448,1.23448 -180 1 0 -2.46,0 1.23448,1.23448 -180 1 0 2.46,0 z" />
+			</g>
+			<g
+   transform="rotate(90,35.75,1632.99)"
+   id="shape8-18">
+				<title
+   id="title47">Sheet.8</title>
+				<path
+   id="path49"
+   class="st5"
+   d="M 0,1647.78 H 24.81" />
+			</g>
+		</g>
+		<g
+   transform="translate(743.528,-375.591)"
+   id="shape10-21">
+			<title
+   id="title53">Sheet.10</title>
+			<desc
+   id="desc55">Private Network for slot-leader node</desc>
+			<rect
+   id="rect57"
+   class="st2"
+   height="42.519699"
+   width="159.30701"
+   y="1605.26"
+   x="0" />
+			<text
+   id="text61"
+   class="st6"
+   y="1621.12"
+   x="7.52">Private Network for <tspan
+   id="tspan59"
+   class="st4"
+   dy="1.2em"
+   x="19.639999">slot</tspan>-leader node</text>		</g>
+		<g
+   transform="translate(871.087,-496.063)"
+   id="shape11-25">
+			<title
+   id="title64">Sheet.11</title>
+			<rect
+   id="rect66"
+   class="st1"
+   height="85.039398"
+   width="198.425"
+   y="1562.74"
+   x="0" />
+		</g>
+		<g
+   transform="translate(871.087,-496.063)"
+   id="shape12-27">
+			<title
+   id="title69">Sheet.12</title>
+			<desc
+   id="desc71">Production Relay Nodes</desc>
+			<rect
+   id="rect73"
+   class="st2"
+   height="28.3465"
+   width="198.425"
+   y="1619.4301"
+   x="0" />
+			<text
+   id="text75"
+   class="st6"
+   y="1639.01"
+   x="11.7">Production Relay Nodes</text>		</g>
+		<g
+   transform="translate(644.315,-496.063)"
+   id="shape13-30">
+			<title
+   id="title78">Sheet.13</title>
+			<rect
+   id="rect80"
+   class="st1"
+   height="85.039398"
+   width="198.425"
+   y="1562.74"
+   x="0" />
+		</g>
+		<g
+   transform="translate(644.315,-496.063)"
+   id="shape14-32">
+			<title
+   id="title83">Sheet.14</title>
+			<desc
+   id="desc85">Staging Relay Node</desc>
+			<rect
+   id="rect87"
+   class="st2"
+   height="28.3465"
+   width="198.425"
+   y="1619.4301"
+   x="0" />
+			<text
+   id="text89"
+   class="st6"
+   y="1639.01"
+   x="28.84">Staging Relay Node</text>		</g>
+		<g
+   transform="translate(809.942,-471.969)"
+   id="shape15-35">
+			<title
+   id="title92">Dynamic connector</title>
+			<path
+   id="path94"
+   class="st5"
+   d="m 0,1647.78 -24.02,-24.09" />
+		</g>
+		<g
+   transform="translate(909.07,-471.969)"
+   id="shape16-38">
+			<title
+   id="title97">Dynamic connector.16</title>
+			<path
+   id="path99"
+   class="st5"
+   d="m 0,1647.78 22.15,-24.09" />
+		</g>
+		<g
+   transform="translate(722.268,-517.323)"
+   id="group17-41">
+			<title
+   id="title102">Application server</title>
+			<g
+   transform="translate(13.2874,-13.9518)"
+   id="shape18-42">
+				<title
+   id="title104">Sheet.18</title>
+				<path
+   id="path106"
+   class="st5"
+   d="M 0,1647.78 H 17.93" />
+			</g>
+			<g
+   transform="translate(0,-5.28984)"
+   id="shape19-45">
+				<title
+   id="title109">Sheet.19</title>
+				<path
+   id="path111"
+   class="st1"
+   d="m 0,1634.93 h 27.2 v -19.09 H 0 Z m 31.21,12.85 h 11.31 v -17.71 H 31.21 Z" />
+			</g>
+			<g
+   transform="translate(0,-8.19273)"
+   id="shape20-47">
+				<title
+   id="title114">Sheet.20</title>
+				<path
+   id="path116"
+   class="st1"
+   d="m 0,1622.31 h 27.2 v -3.57 H 0 Z m 35.57,25.47 h 5.52 v -0.44 h -5.52 z m 0,-1.34 h 5.52 v -0.45 h -5.52 z m 0,-1.35 h 5.52 v -0.44 h -5.52 z m 5.4,-2.65 a 0.6835,0.6835 -180 1 0 -1.367,0 0.6835,0.6835 -180 1 0 1.367,0 z" />
+			</g>
+			<g
+   transform="translate(24.7569,-34.5897)"
+   id="shape21-49">
+				<title
+   id="title119">Sheet.21</title>
+				<path
+   id="path121"
+   class="st7"
+   d="m 0.86,1646.71 -0.64,-0.64 -0.22,0.21 0.64,0.64 -0.64,0.64 0.22,0.22 0.64,-0.64 0.64,0.64 0.21,-0.22 -0.64,-0.64 0.64,-0.64 -0.21,-0.21 z" />
+			</g>
+			<g
+   transform="translate(3.27388,-20.803)"
+   id="shape22-52">
+				<title
+   id="title124">Sheet.22</title>
+				<path
+   id="path126"
+   class="st7"
+   d="m 0,1647.78 h 5.43 v -2.75 H 0 Z m 0.07,-4.59 h 5.42 v -5.98 H 0.07 Z m 6.68,4.59 h 13.53 v -2.75 H 6.75 Z" />
+				<path
+   id="path128"
+   class="st5"
+   d="m 0,1647.78 h 5.43 v -2.75 H 0 v 2.75" />
+				<path
+   id="path130"
+   class="st5"
+   d="m 0.07,1643.19 h 5.42 v -5.98 H 0.07 v 5.98" />
+				<path
+   id="path132"
+   class="st5"
+   d="m 6.75,1647.78 h 13.53 v -2.75 H 6.75 v 2.75" />
+				<path
+   id="path134"
+   class="st5"
+   d="M 7.17,1641.13 H 20.54" />
+				<path
+   id="path136"
+   class="st5"
+   d="M 7.17,1639.48 H 20.54" />
+				<path
+   id="path138"
+   class="st5"
+   d="M 7.17,1637.83 H 20.54" />
+				<path
+   id="path140"
+   class="st5"
+   d="m 7.17,1642.78 h 5.85" />
+			</g>
+		</g>
+		<g
+   transform="translate(903.685,-517.323)"
+   id="group23-61">
+			<title
+   id="title144">Application server.23</title>
+			<g
+   transform="translate(13.2874,-13.9518)"
+   id="shape24-62">
+				<title
+   id="title146">Sheet.24</title>
+				<path
+   id="path148"
+   class="st5"
+   d="M 0,1647.78 H 17.93" />
+			</g>
+			<g
+   transform="translate(0,-5.28984)"
+   id="shape25-65">
+				<title
+   id="title151">Sheet.25</title>
+				<path
+   id="path153"
+   class="st1"
+   d="m 0,1634.93 h 27.2 v -19.09 H 0 Z m 31.21,12.85 h 11.31 v -17.71 H 31.21 Z" />
+			</g>
+			<g
+   transform="translate(0,-8.19273)"
+   id="shape26-67">
+				<title
+   id="title156">Sheet.26</title>
+				<path
+   id="path158"
+   class="st1"
+   d="m 0,1622.31 h 27.2 v -3.57 H 0 Z m 35.57,25.47 h 5.52 v -0.44 h -5.52 z m 0,-1.34 h 5.52 v -0.45 h -5.52 z m 0,-1.35 h 5.52 v -0.44 h -5.52 z m 5.4,-2.65 a 0.6835,0.6835 -180 1 0 -1.367,0 0.6835,0.6835 -180 1 0 1.367,0 z" />
+			</g>
+			<g
+   transform="translate(24.7569,-34.5897)"
+   id="shape27-69">
+				<title
+   id="title161">Sheet.27</title>
+				<path
+   id="path163"
+   class="st7"
+   d="m 0.86,1646.71 -0.64,-0.64 -0.22,0.21 0.64,0.64 -0.64,0.64 0.22,0.22 0.64,-0.64 0.64,0.64 0.21,-0.22 -0.64,-0.64 0.64,-0.64 -0.21,-0.21 z" />
+			</g>
+			<g
+   transform="translate(3.27388,-20.803)"
+   id="shape28-72">
+				<title
+   id="title166">Sheet.28</title>
+				<path
+   id="path168"
+   class="st7"
+   d="m 0,1647.78 h 5.43 v -2.75 H 0 Z m 0.07,-4.59 h 5.42 v -5.98 H 0.07 Z m 6.68,4.59 h 13.53 v -2.75 H 6.75 Z" />
+				<path
+   id="path170"
+   class="st5"
+   d="m 0,1647.78 h 5.43 v -2.75 H 0 v 2.75" />
+				<path
+   id="path172"
+   class="st5"
+   d="m 0.07,1643.19 h 5.42 v -5.98 H 0.07 v 5.98" />
+				<path
+   id="path174"
+   class="st5"
+   d="m 6.75,1647.78 h 13.53 v -2.75 H 6.75 v 2.75" />
+				<path
+   id="path176"
+   class="st5"
+   d="M 7.17,1641.13 H 20.54" />
+				<path
+   id="path178"
+   class="st5"
+   d="M 7.17,1639.48 H 20.54" />
+				<path
+   id="path180"
+   class="st5"
+   d="M 7.17,1637.83 H 20.54" />
+				<path
+   id="path182"
+   class="st5"
+   d="m 7.17,1642.78 h 5.85" />
+			</g>
+		</g>
+		<g
+   transform="translate(998.646,-517.323)"
+   id="group29-81">
+			<title
+   id="title186">Application server.29</title>
+			<g
+   transform="translate(13.2874,-13.9518)"
+   id="shape30-82">
+				<title
+   id="title188">Sheet.30</title>
+				<path
+   id="path190"
+   class="st5"
+   d="M 0,1647.78 H 17.93" />
+			</g>
+			<g
+   transform="translate(0,-5.28984)"
+   id="shape31-85">
+				<title
+   id="title193">Sheet.31</title>
+				<path
+   id="path195"
+   class="st1"
+   d="m 0,1634.93 h 27.2 v -19.09 H 0 Z m 31.21,12.85 h 11.31 v -17.71 H 31.21 Z" />
+			</g>
+			<g
+   transform="translate(0,-8.19273)"
+   id="shape32-87">
+				<title
+   id="title198">Sheet.32</title>
+				<path
+   id="path200"
+   class="st1"
+   d="m 0,1622.31 h 27.2 v -3.57 H 0 Z m 35.57,25.47 h 5.52 v -0.44 h -5.52 z m 0,-1.34 h 5.52 v -0.45 h -5.52 z m 0,-1.35 h 5.52 v -0.44 h -5.52 z m 5.4,-2.65 a 0.6835,0.6835 -180 1 0 -1.367,0 0.6835,0.6835 -180 1 0 1.367,0 z" />
+			</g>
+			<g
+   transform="translate(24.7569,-34.5897)"
+   id="shape33-89">
+				<title
+   id="title203">Sheet.33</title>
+				<path
+   id="path205"
+   class="st7"
+   d="m 0.86,1646.71 -0.64,-0.64 -0.22,0.21 0.64,0.64 -0.64,0.64 0.22,0.22 0.64,-0.64 0.64,0.64 0.21,-0.22 -0.64,-0.64 0.64,-0.64 -0.21,-0.21 z" />
+			</g>
+			<g
+   transform="translate(3.27388,-20.803)"
+   id="shape34-92">
+				<title
+   id="title208">Sheet.34</title>
+				<path
+   id="path210"
+   class="st7"
+   d="m 0,1647.78 h 5.43 v -2.75 H 0 Z m 0.07,-4.59 h 5.42 v -5.98 H 0.07 Z m 6.68,4.59 h 13.53 v -2.75 H 6.75 Z" />
+				<path
+   id="path212"
+   class="st5"
+   d="m 0,1647.78 h 5.43 v -2.75 H 0 v 2.75" />
+				<path
+   id="path214"
+   class="st5"
+   d="m 0.07,1643.19 h 5.42 v -5.98 H 0.07 v 5.98" />
+				<path
+   id="path216"
+   class="st5"
+   d="m 6.75,1647.78 h 13.53 v -2.75 H 6.75 v 2.75" />
+				<path
+   id="path218"
+   class="st5"
+   d="M 7.17,1641.13 H 20.54" />
+				<path
+   id="path220"
+   class="st5"
+   d="M 7.17,1639.48 H 20.54" />
+				<path
+   id="path222"
+   class="st5"
+   d="M 7.17,1637.83 H 20.54" />
+				<path
+   id="path224"
+   class="st5"
+   d="m 7.17,1642.78 h 5.85" />
+			</g>
+		</g>
+		<g
+   transform="translate(842.74,-531.496)"
+   id="shape35-101">
+			<title
+   id="title228">Dynamic connector.35</title>
+			<path
+   id="path230"
+   class="st5"
+   d="M 0,1640.69 H 28.35" />
+		</g>
+		<g
+   transform="translate(773.036,-581.102)"
+   id="shape36-104">
+			<title
+   id="title233">Dynamic connector.36</title>
+			<path
+   id="path235"
+   class="st5"
+   d="M 0,1647.78 71.43,1544.86" />
+		</g>
+		<g
+   transform="translate(956.886,-581.102)"
+   id="shape37-107">
+			<title
+   id="title238">Dynamic connector.37</title>
+			<path
+   id="path240"
+   class="st5"
+   d="m 0,1647.78 -28.59,-90.62" />
+		</g>
+		<g
+   transform="translate(555.874,-609.449)"
+   id="shape38-110">
+			<title
+   id="title243">Sheet.38</title>
+			<rect
+   id="rect245"
+   class="st1"
+   height="85.039398"
+   width="159.30701"
+   y="1562.74"
+   x="0" />
+		</g>
+		<g
+   transform="translate(555.874,-609.449)"
+   id="shape39-112">
+			<title
+   id="title248">Sheet.39</title>
+			<desc
+   id="desc250">Testing Relay Node</desc>
+			<rect
+   id="rect252"
+   class="st2"
+   height="28.3465"
+   width="159.30701"
+   y="1619.4301"
+   x="0" />
+			<text
+   id="text254"
+   class="st6"
+   y="1639.01"
+   x="9.5799999">Testing Relay Node</text>		</g>
+		<g
+   transform="translate(614.268,-637.795)"
+   id="group40-115">
+			<title
+   id="title257">Application server.40</title>
+			<g
+   transform="translate(13.2874,-13.9518)"
+   id="shape41-116">
+				<title
+   id="title259">Sheet.41</title>
+				<path
+   id="path261"
+   class="st5"
+   d="M 0,1647.78 H 17.93" />
+			</g>
+			<g
+   transform="translate(0,-5.28984)"
+   id="shape42-119">
+				<title
+   id="title264">Sheet.42</title>
+				<path
+   id="path266"
+   class="st1"
+   d="m 0,1634.93 h 27.2 v -19.09 H 0 Z m 31.21,12.85 h 11.31 v -17.71 H 31.21 Z" />
+			</g>
+			<g
+   transform="translate(0,-8.19273)"
+   id="shape43-121">
+				<title
+   id="title269">Sheet.43</title>
+				<path
+   id="path271"
+   class="st1"
+   d="m 0,1622.31 h 27.2 v -3.57 H 0 Z m 35.57,25.47 h 5.52 v -0.44 h -5.52 z m 0,-1.34 h 5.52 v -0.45 h -5.52 z m 0,-1.35 h 5.52 v -0.44 h -5.52 z m 5.4,-2.65 a 0.6835,0.6835 -180 1 0 -1.367,0 0.6835,0.6835 -180 1 0 1.367,0 z" />
+			</g>
+			<g
+   transform="translate(24.7569,-34.5897)"
+   id="shape44-123">
+				<title
+   id="title274">Sheet.44</title>
+				<path
+   id="path276"
+   class="st7"
+   d="m 0.86,1646.71 -0.64,-0.64 -0.22,0.21 0.64,0.64 -0.64,0.64 0.22,0.22 0.64,-0.64 0.64,0.64 0.21,-0.22 -0.64,-0.64 0.64,-0.64 -0.21,-0.21 z" />
+			</g>
+			<g
+   transform="translate(3.27388,-20.803)"
+   id="shape45-126">
+				<title
+   id="title279">Sheet.45</title>
+				<path
+   id="path281"
+   class="st7"
+   d="m 0,1647.78 h 5.43 v -2.75 H 0 Z m 0.07,-4.59 h 5.42 v -5.98 H 0.07 Z m 6.68,4.59 h 13.53 v -2.75 H 6.75 Z" />
+				<path
+   id="path283"
+   class="st5"
+   d="m 0,1647.78 h 5.43 v -2.75 H 0 v 2.75" />
+				<path
+   id="path285"
+   class="st5"
+   d="m 0.07,1643.19 h 5.42 v -5.98 H 0.07 v 5.98" />
+				<path
+   id="path287"
+   class="st5"
+   d="m 6.75,1647.78 h 13.53 v -2.75 H 6.75 v 2.75" />
+				<path
+   id="path289"
+   class="st5"
+   d="M 7.17,1641.13 H 20.54" />
+				<path
+   id="path291"
+   class="st5"
+   d="M 7.17,1639.48 H 20.54" />
+				<path
+   id="path293"
+   class="st5"
+   d="M 7.17,1637.83 H 20.54" />
+				<path
+   id="path295"
+   class="st5"
+   d="m 7.17,1642.78 h 5.85" />
+			</g>
+		</g>
+		<g
+   transform="translate(703.028,-581.102)"
+   id="shape46-135">
+			<title
+   id="title299">Dynamic connector.46</title>
+			<path
+   id="path301"
+   class="st5"
+   d="m 0,1647.78 -27,-28.35" />
+		</g>
+		<g
+   transform="translate(715.181,-685.55)"
+   id="shape47-138">
+			<title
+   id="title304">Dynamic connector.47</title>
+			<path
+   id="path306"
+   class="st5"
+   d="m 0,1647.78 37.06,-15.63" />
+		</g>
+		<g
+   transform="translate(849.827,-800.787)"
+   id="group48-141">
+			<title
+   id="title309">Application server.48</title>
+			<g
+   transform="translate(13.2874,-13.9518)"
+   id="shape49-142">
+				<title
+   id="title311">Sheet.49</title>
+				<path
+   id="path313"
+   class="st5"
+   d="M 0,1647.78 H 17.93" />
+			</g>
+			<g
+   transform="translate(0,-5.28984)"
+   id="shape50-145">
+				<title
+   id="title316">Sheet.50</title>
+				<path
+   id="path318"
+   class="st1"
+   d="m 0,1634.93 h 27.2 v -19.09 H 0 Z m 31.21,12.85 h 11.31 v -17.71 H 31.21 Z" />
+			</g>
+			<g
+   transform="translate(0,-8.19273)"
+   id="shape51-147">
+				<title
+   id="title321">Sheet.51</title>
+				<path
+   id="path323"
+   class="st1"
+   d="m 0,1622.31 h 27.2 v -3.57 H 0 Z m 35.57,25.47 h 5.52 v -0.44 h -5.52 z m 0,-1.34 h 5.52 v -0.45 h -5.52 z m 0,-1.35 h 5.52 v -0.44 h -5.52 z m 5.4,-2.65 a 0.6835,0.6835 -180 1 0 -1.367,0 0.6835,0.6835 -180 1 0 1.367,0 z" />
+			</g>
+			<g
+   transform="translate(24.7569,-34.5897)"
+   id="shape52-149">
+				<title
+   id="title326">Sheet.52</title>
+				<path
+   id="path328"
+   class="st7"
+   d="m 0.86,1646.71 -0.64,-0.64 -0.22,0.21 0.64,0.64 -0.64,0.64 0.22,0.22 0.64,-0.64 0.64,0.64 0.21,-0.22 -0.64,-0.64 0.64,-0.64 -0.21,-0.21 z" />
+			</g>
+			<g
+   transform="translate(3.27388,-20.803)"
+   id="shape53-152">
+				<title
+   id="title331">Sheet.53</title>
+				<path
+   id="path333"
+   class="st7"
+   d="m 0,1647.78 h 5.43 v -2.75 H 0 Z m 0.07,-4.59 h 5.42 v -5.98 H 0.07 Z m 6.68,4.59 h 13.53 v -2.75 H 6.75 Z" />
+				<path
+   id="path335"
+   class="st5"
+   d="m 0,1647.78 h 5.43 v -2.75 H 0 v 2.75" />
+				<path
+   id="path337"
+   class="st5"
+   d="m 0.07,1643.19 h 5.42 v -5.98 H 0.07 v 5.98" />
+				<path
+   id="path339"
+   class="st5"
+   d="m 6.75,1647.78 h 13.53 v -2.75 H 6.75 v 2.75" />
+				<path
+   id="path341"
+   class="st5"
+   d="M 7.17,1641.13 H 20.54" />
+				<path
+   id="path343"
+   class="st5"
+   d="M 7.17,1639.48 H 20.54" />
+				<path
+   id="path345"
+   class="st5"
+   d="M 7.17,1637.83 H 20.54" />
+				<path
+   id="path347"
+   class="st5"
+   d="m 7.17,1642.78 h 5.85" />
+			</g>
+		</g>
+		<g
+   transform="translate(913.606,-800.787)"
+   id="group54-161">
+			<title
+   id="title351">Application server.54</title>
+			<g
+   transform="translate(13.2874,-13.9518)"
+   id="shape55-162">
+				<title
+   id="title353">Sheet.55</title>
+				<path
+   id="path355"
+   class="st5"
+   d="M 0,1647.78 H 17.93" />
+			</g>
+			<g
+   transform="translate(0,-5.28984)"
+   id="shape56-165">
+				<title
+   id="title358">Sheet.56</title>
+				<path
+   id="path360"
+   class="st1"
+   d="m 0,1634.93 h 27.2 v -19.09 H 0 Z m 31.21,12.85 h 11.31 v -17.71 H 31.21 Z" />
+			</g>
+			<g
+   transform="translate(0,-8.19273)"
+   id="shape57-167">
+				<title
+   id="title363">Sheet.57</title>
+				<path
+   id="path365"
+   class="st1"
+   d="m 0,1622.31 h 27.2 v -3.57 H 0 Z m 35.57,25.47 h 5.52 v -0.44 h -5.52 z m 0,-1.34 h 5.52 v -0.45 h -5.52 z m 0,-1.35 h 5.52 v -0.44 h -5.52 z m 5.4,-2.65 a 0.6835,0.6835 -180 1 0 -1.367,0 0.6835,0.6835 -180 1 0 1.367,0 z" />
+			</g>
+			<g
+   transform="translate(24.7569,-34.5897)"
+   id="shape58-169">
+				<title
+   id="title368">Sheet.58</title>
+				<path
+   id="path370"
+   class="st7"
+   d="m 0.86,1646.71 -0.64,-0.64 -0.22,0.21 0.64,0.64 -0.64,0.64 0.22,0.22 0.64,-0.64 0.64,0.64 0.21,-0.22 -0.64,-0.64 0.64,-0.64 -0.21,-0.21 z" />
+			</g>
+			<g
+   transform="translate(3.27388,-20.803)"
+   id="shape59-172">
+				<title
+   id="title373">Sheet.59</title>
+				<path
+   id="path375"
+   class="st7"
+   d="m 0,1647.78 h 5.43 v -2.75 H 0 Z m 0.07,-4.59 h 5.42 v -5.98 H 0.07 Z m 6.68,4.59 h 13.53 v -2.75 H 6.75 Z" />
+				<path
+   id="path377"
+   class="st5"
+   d="m 0,1647.78 h 5.43 v -2.75 H 0 v 2.75" />
+				<path
+   id="path379"
+   class="st5"
+   d="m 0.07,1643.19 h 5.42 v -5.98 H 0.07 v 5.98" />
+				<path
+   id="path381"
+   class="st5"
+   d="m 6.75,1647.78 h 13.53 v -2.75 H 6.75 v 2.75" />
+				<path
+   id="path383"
+   class="st5"
+   d="M 7.17,1641.13 H 20.54" />
+				<path
+   id="path385"
+   class="st5"
+   d="M 7.17,1639.48 H 20.54" />
+				<path
+   id="path387"
+   class="st5"
+   d="M 7.17,1637.83 H 20.54" />
+				<path
+   id="path389"
+   class="st5"
+   d="m 7.17,1642.78 h 5.85" />
+			</g>
+		</g>
+		<g
+   transform="translate(1012.82,-729.921)"
+   id="group60-181">
+			<title
+   id="title393">Application server.60</title>
+			<g
+   transform="translate(13.2874,-13.9518)"
+   id="shape61-182">
+				<title
+   id="title395">Sheet.61</title>
+				<path
+   id="path397"
+   class="st5"
+   d="M 0,1647.78 H 17.93" />
+			</g>
+			<g
+   transform="translate(0,-5.28984)"
+   id="shape62-185">
+				<title
+   id="title400">Sheet.62</title>
+				<path
+   id="path402"
+   class="st1"
+   d="m 0,1634.93 h 27.2 v -19.09 H 0 Z m 31.21,12.85 h 11.31 v -17.71 H 31.21 Z" />
+			</g>
+			<g
+   transform="translate(0,-8.19273)"
+   id="shape63-187">
+				<title
+   id="title405">Sheet.63</title>
+				<path
+   id="path407"
+   class="st1"
+   d="m 0,1622.31 h 27.2 v -3.57 H 0 Z m 35.57,25.47 h 5.52 v -0.44 h -5.52 z m 0,-1.34 h 5.52 v -0.45 h -5.52 z m 0,-1.35 h 5.52 v -0.44 h -5.52 z m 5.4,-2.65 a 0.6835,0.6835 -180 1 0 -1.367,0 0.6835,0.6835 -180 1 0 1.367,0 z" />
+			</g>
+			<g
+   transform="translate(24.7569,-34.5897)"
+   id="shape64-189">
+				<title
+   id="title410">Sheet.64</title>
+				<path
+   id="path412"
+   class="st7"
+   d="m 0.86,1646.71 -0.64,-0.64 -0.22,0.21 0.64,0.64 -0.64,0.64 0.22,0.22 0.64,-0.64 0.64,0.64 0.21,-0.22 -0.64,-0.64 0.64,-0.64 -0.21,-0.21 z" />
+			</g>
+			<g
+   transform="translate(3.27388,-20.803)"
+   id="shape65-192">
+				<title
+   id="title415">Sheet.65</title>
+				<path
+   id="path417"
+   class="st7"
+   d="m 0,1647.78 h 5.43 v -2.75 H 0 Z m 0.07,-4.59 h 5.42 v -5.98 H 0.07 Z m 6.68,4.59 h 13.53 v -2.75 H 6.75 Z" />
+				<path
+   id="path419"
+   class="st5"
+   d="m 0,1647.78 h 5.43 v -2.75 H 0 v 2.75" />
+				<path
+   id="path421"
+   class="st5"
+   d="m 0.07,1643.19 h 5.42 v -5.98 H 0.07 v 5.98" />
+				<path
+   id="path423"
+   class="st5"
+   d="m 6.75,1647.78 h 13.53 v -2.75 H 6.75 v 2.75" />
+				<path
+   id="path425"
+   class="st5"
+   d="M 7.17,1641.13 H 20.54" />
+				<path
+   id="path427"
+   class="st5"
+   d="M 7.17,1639.48 H 20.54" />
+				<path
+   id="path429"
+   class="st5"
+   d="M 7.17,1637.83 H 20.54" />
+				<path
+   id="path431"
+   class="st5"
+   d="m 7.17,1642.78 h 5.85" />
+			</g>
+		</g>
+		<g
+   transform="translate(977.386,-772.441)"
+   id="group66-201">
+			<title
+   id="title435">Application server.66</title>
+			<g
+   transform="translate(13.2874,-13.9518)"
+   id="shape67-202">
+				<title
+   id="title437">Sheet.67</title>
+				<path
+   id="path439"
+   class="st5"
+   d="M 0,1647.78 H 17.93" />
+			</g>
+			<g
+   transform="translate(0,-5.28984)"
+   id="shape68-205">
+				<title
+   id="title442">Sheet.68</title>
+				<path
+   id="path444"
+   class="st1"
+   d="m 0,1634.93 h 27.2 v -19.09 H 0 Z m 31.21,12.85 h 11.31 v -17.71 H 31.21 Z" />
+			</g>
+			<g
+   transform="translate(0,-8.19273)"
+   id="shape69-207">
+				<title
+   id="title447">Sheet.69</title>
+				<path
+   id="path449"
+   class="st1"
+   d="m 0,1622.31 h 27.2 v -3.57 H 0 Z m 35.57,25.47 h 5.52 v -0.44 h -5.52 z m 0,-1.34 h 5.52 v -0.45 h -5.52 z m 0,-1.35 h 5.52 v -0.44 h -5.52 z m 5.4,-2.65 a 0.6835,0.6835 -180 1 0 -1.367,0 0.6835,0.6835 -180 1 0 1.367,0 z" />
+			</g>
+			<g
+   transform="translate(24.7569,-34.5897)"
+   id="shape70-209">
+				<title
+   id="title452">Sheet.70</title>
+				<path
+   id="path454"
+   class="st7"
+   d="m 0.86,1646.71 -0.64,-0.64 -0.22,0.21 0.64,0.64 -0.64,0.64 0.22,0.22 0.64,-0.64 0.64,0.64 0.21,-0.22 -0.64,-0.64 0.64,-0.64 -0.21,-0.21 z" />
+			</g>
+			<g
+   transform="translate(3.27388,-20.803)"
+   id="shape71-212">
+				<title
+   id="title457">Sheet.71</title>
+				<path
+   id="path459"
+   class="st7"
+   d="m 0,1647.78 h 5.43 v -2.75 H 0 Z m 0.07,-4.59 h 5.42 v -5.98 H 0.07 Z m 6.68,4.59 h 13.53 v -2.75 H 6.75 Z" />
+				<path
+   id="path461"
+   class="st5"
+   d="m 0,1647.78 h 5.43 v -2.75 H 0 v 2.75" />
+				<path
+   id="path463"
+   class="st5"
+   d="m 0.07,1643.19 h 5.42 v -5.98 H 0.07 v 5.98" />
+				<path
+   id="path465"
+   class="st5"
+   d="m 6.75,1647.78 h 13.53 v -2.75 H 6.75 v 2.75" />
+				<path
+   id="path467"
+   class="st5"
+   d="M 7.17,1641.13 H 20.54" />
+				<path
+   id="path469"
+   class="st5"
+   d="M 7.17,1639.48 H 20.54" />
+				<path
+   id="path471"
+   class="st5"
+   d="M 7.17,1637.83 H 20.54" />
+				<path
+   id="path473"
+   class="st5"
+   d="m 7.17,1642.78 h 5.85" />
+			</g>
+		</g>
+		<g
+   transform="translate(821.48,-758.268)"
+   id="group72-221">
+			<title
+   id="title477">Application server.72</title>
+			<g
+   transform="translate(13.2874,-13.9518)"
+   id="shape73-222">
+				<title
+   id="title479">Sheet.73</title>
+				<path
+   id="path481"
+   class="st5"
+   d="M 0,1647.78 H 17.93" />
+			</g>
+			<g
+   transform="translate(0,-5.28984)"
+   id="shape74-225">
+				<title
+   id="title484">Sheet.74</title>
+				<path
+   id="path486"
+   class="st1"
+   d="m 0,1634.93 h 27.2 v -19.09 H 0 Z m 31.21,12.85 h 11.31 v -17.71 H 31.21 Z" />
+			</g>
+			<g
+   transform="translate(0,-8.19273)"
+   id="shape75-227">
+				<title
+   id="title489">Sheet.75</title>
+				<path
+   id="path491"
+   class="st1"
+   d="m 0,1622.31 h 27.2 v -3.57 H 0 Z m 35.57,25.47 h 5.52 v -0.44 h -5.52 z m 0,-1.34 h 5.52 v -0.45 h -5.52 z m 0,-1.35 h 5.52 v -0.44 h -5.52 z m 5.4,-2.65 a 0.6835,0.6835 -180 1 0 -1.367,0 0.6835,0.6835 -180 1 0 1.367,0 z" />
+			</g>
+			<g
+   transform="translate(24.7569,-34.5897)"
+   id="shape76-229">
+				<title
+   id="title494">Sheet.76</title>
+				<path
+   id="path496"
+   class="st7"
+   d="m 0.86,1646.71 -0.64,-0.64 -0.22,0.21 0.64,0.64 -0.64,0.64 0.22,0.22 0.64,-0.64 0.64,0.64 0.21,-0.22 -0.64,-0.64 0.64,-0.64 -0.21,-0.21 z" />
+			</g>
+			<g
+   transform="translate(3.27388,-20.803)"
+   id="shape77-232">
+				<title
+   id="title499">Sheet.77</title>
+				<path
+   id="path501"
+   class="st7"
+   d="m 0,1647.78 h 5.43 v -2.75 H 0 Z m 0.07,-4.59 h 5.42 v -5.98 H 0.07 Z m 6.68,4.59 h 13.53 v -2.75 H 6.75 Z" />
+				<path
+   id="path503"
+   class="st5"
+   d="m 0,1647.78 h 5.43 v -2.75 H 0 v 2.75" />
+				<path
+   id="path505"
+   class="st5"
+   d="m 0.07,1643.19 h 5.42 v -5.98 H 0.07 v 5.98" />
+				<path
+   id="path507"
+   class="st5"
+   d="m 6.75,1647.78 h 13.53 v -2.75 H 6.75 v 2.75" />
+				<path
+   id="path509"
+   class="st5"
+   d="M 7.17,1641.13 H 20.54" />
+				<path
+   id="path511"
+   class="st5"
+   d="M 7.17,1639.48 H 20.54" />
+				<path
+   id="path513"
+   class="st5"
+   d="M 7.17,1637.83 H 20.54" />
+				<path
+   id="path515"
+   class="st5"
+   d="m 7.17,1642.78 h 5.85" />
+			</g>
+		</g>
+		<g
+   transform="translate(899.433,-758.268)"
+   id="group78-241">
+			<title
+   id="title519">Application server.78</title>
+			<g
+   transform="translate(13.2874,-13.9518)"
+   id="shape79-242">
+				<title
+   id="title521">Sheet.79</title>
+				<path
+   id="path523"
+   class="st5"
+   d="M 0,1647.78 H 17.93" />
+			</g>
+			<g
+   transform="translate(0,-5.28984)"
+   id="shape80-245">
+				<title
+   id="title526">Sheet.80</title>
+				<path
+   id="path528"
+   class="st1"
+   d="m 0,1634.93 h 27.2 v -19.09 H 0 Z m 31.21,12.85 h 11.31 v -17.71 H 31.21 Z" />
+			</g>
+			<g
+   transform="translate(0,-8.19273)"
+   id="shape81-247">
+				<title
+   id="title531">Sheet.81</title>
+				<path
+   id="path533"
+   class="st1"
+   d="m 0,1622.31 h 27.2 v -3.57 H 0 Z m 35.57,25.47 h 5.52 v -0.44 h -5.52 z m 0,-1.34 h 5.52 v -0.45 h -5.52 z m 0,-1.35 h 5.52 v -0.44 h -5.52 z m 5.4,-2.65 a 0.6835,0.6835 -180 1 0 -1.367,0 0.6835,0.6835 -180 1 0 1.367,0 z" />
+			</g>
+			<g
+   transform="translate(24.7569,-34.5897)"
+   id="shape82-249">
+				<title
+   id="title536">Sheet.82</title>
+				<path
+   id="path538"
+   class="st7"
+   d="m 0.86,1646.71 -0.64,-0.64 -0.22,0.21 0.64,0.64 -0.64,0.64 0.22,0.22 0.64,-0.64 0.64,0.64 0.21,-0.22 -0.64,-0.64 0.64,-0.64 -0.21,-0.21 z" />
+			</g>
+			<g
+   transform="translate(3.27388,-20.803)"
+   id="shape83-252">
+				<title
+   id="title541">Sheet.83</title>
+				<path
+   id="path543"
+   class="st7"
+   d="m 0,1647.78 h 5.43 v -2.75 H 0 Z m 0.07,-4.59 h 5.42 v -5.98 H 0.07 Z m 6.68,4.59 h 13.53 v -2.75 H 6.75 Z" />
+				<path
+   id="path545"
+   class="st5"
+   d="m 0,1647.78 h 5.43 v -2.75 H 0 v 2.75" />
+				<path
+   id="path547"
+   class="st5"
+   d="m 0.07,1643.19 h 5.42 v -5.98 H 0.07 v 5.98" />
+				<path
+   id="path549"
+   class="st5"
+   d="m 6.75,1647.78 h 13.53 v -2.75 H 6.75 v 2.75" />
+				<path
+   id="path551"
+   class="st5"
+   d="M 7.17,1641.13 H 20.54" />
+				<path
+   id="path553"
+   class="st5"
+   d="M 7.17,1639.48 H 20.54" />
+				<path
+   id="path555"
+   class="st5"
+   d="M 7.17,1637.83 H 20.54" />
+				<path
+   id="path557"
+   class="st5"
+   d="m 7.17,1642.78 h 5.85" />
+			</g>
+		</g>
+	</g>
+</svg>
