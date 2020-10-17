@@ -63,7 +63,7 @@
         Reserved.
       </p>
       <p v-else class="k-copyright">
-        © 2020 | DOLCA stake pool. All Rights Reserved.
+        © 2020 | DOLCA Stake Pool. All Rights Reserved.
       </p>
       <br />
     </div>

@@ -8,7 +8,9 @@
           </figure>
         </div>
         <div class="column is-5">
-          <h1 class="title is-2 is-light is-semibold is-spaced main-title">Our Technology</h1>
+          <h1 class="title is-2 is-light is-semibold is-spaced main-title">
+            Our Technology
+          </h1>
           <p class="content mb-1">
             At <strong>DOLCA Stake Pool</strong> we leverage <nuxt-link to="/dolca-stake-pool-team/">our team, and our expert knowledge</nuxt-link> to design and support best-in-class architecture for our <strong>Stake Pool</strong>, not only to maximize delegates returns, but to also ensure state-of-the-art security and maximize contributions to <nuxt-link to="/about-cardano/">Cardano project</nuxt-link>.
           </p>
