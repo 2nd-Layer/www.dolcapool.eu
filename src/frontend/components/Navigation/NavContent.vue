@@ -11,7 +11,7 @@
     <div class="navbar-item is-nav-link">
       <nuxt-link
         class="is-centered-responsive"
-        :to="localePath('/cardano-stake-pool')"
+        :to="localePath('/cardano-stake-pool/')"
       >
         {{ $t("cardanoStakePool") }}
       </nuxt-link>
@@ -31,7 +31,7 @@
     <div class="navbar-item is-nav-link">
       <nuxt-link
         class="is-centered-responsive"
-        :to="localePath('/better-late-than-never-partnership')"
+        :to="localePath('/better-late-than-never-partnership/')"
       >
         {{ $t("bltnPartnership") }}
       </nuxt-link>
@@ -40,7 +40,7 @@
     <!-- Stake Now -->
     <div class="navbar-item is-nav-link">
       <nuxt-link
-        :to="localePath('/begin-staking-now')"
+        :to="localePath('/begin-staking-now/')"
         class="button k-button k-primary raised has-gradient slanted"
       >
         <span class="text">{{ $t("beginStakingNow") }}</span>
