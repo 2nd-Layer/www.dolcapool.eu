@@ -3,13 +3,6 @@
     <div class="container">
       <!-- Logo -->
       <div class="footer-logo">
-        <a href="https://www.perlur.cloud/">
-          <img
-            class="hero-logo"
-            :src="perlurLogo"
-            alt="PERLUR Group Logo"
-          />
-        </a>
         <nuxt-link to="/">
           <img
             class="hero-logo"
@@ -17,13 +10,6 @@
             alt="DOLCA Stake Pool Logo"
           />
         </nuxt-link>
-        <a href="https://www.2ndlayer.eu/">
-          <img
-            class="hero-logo"
-            :src="layerLogo"
-            alt="2nd Layer Logo"
-          />
-        </a>
         <div class="brand-subtitle">Cardano Blockchain Staking Services</div>
       </div>
 
@@ -96,8 +82,6 @@ export default {
   data() {
     return {
       logo: require("@/assets/images/logos/logo-white.svg"),
-      layerLogo: require("@/assets/images/logos/2nd-layer-logo-white.svg"),
-      perlurLogo: require("@/assets/images/logos/perlur-logo-white.svg"),
       solarSystem: require("@/assets/images/bg/solar.svg"),
     }
   },
