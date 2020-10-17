@@ -155,9 +155,9 @@
             As you may already know, <strong>Bitcoin</strong> uses UTXO or Unspent Transaction Output accoutning style, in contrast with <strong>Ethereum</strong> or <strong>Tezos</strong> which use account style accounting models.
           </p>
           <p class="content pl-2">
-            As it often is, both accounting models offer some advantages and some disadvantages, major advantage of UTXO accounting model is that due to lack of global account state (accounts are emptied during transaction which enables the wallet node to purge it and save memory), account style accounting model on the other hand is more suitable for smart-contract functionality, account style accounting model is however more difficult to scale due to the need to maintain global state of all accounts and their history.
+            As it often is, both accounting models offer some advantages and some disadvantages, major advantage of UTXO accounting model is that due to lack of global account state (accounts are emptied during transaction which enables the wallet node to purge it and save memory), on the other hand Account style accounting model is more suitable for smart-contract functionality. However Account style accounting model is also more difficult to scale due to the need to maintain global state of all accounts and their history.
           </p>
-           <p class="content pl-2">
+          <p class="content pl-2">
             For these reasons, <a href='https://www.iohk.io/'>Input Output Global</a> decided to invent a new model <a href='https://iohk.io/en/research/library/papers/the-extended-utxo-model/'>called Extended UTXO</a> which combines the benefits of both Unspent Transaction Outputs accounting and account style accounting. This unique accounting model enables <a href='#hydra'>Layer 2 scaling technology like later described Hydra channels</a>.
           </p>         
           <!-- CTA -->
