@@ -4,7 +4,7 @@
       <div class="columns is-multiline is-1">
         <div class="column is-7">
           <figure class="image">
-            <img :src="dolcaPoolTopology" style="filter: invert(100%);" />
+            <img :src="dolcaPoolTopology" style="filter: invert(100%)" />
           </figure>
         </div>
         <div class="column is-5">
@@ -27,7 +27,6 @@
           <p class="content pt-2 mb-1">
             This level of technical sophistication and automation does not only benefit us and our delegates, but also all <strong>Cardano developers</strong> as it enables us to discover and report any issues with significant notice in order to ensure that the <strong>production releases</strong> used by majority of operators are rock solid when released for general use.
           </p>
-        </div>   
         </div>
       </div>
     </div>
