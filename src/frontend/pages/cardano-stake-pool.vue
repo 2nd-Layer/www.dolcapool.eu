@@ -73,7 +73,7 @@
           </div>
         </div>
       </div>
-      <section class="section is-medium">
+      <section class="pt-6 section is-medium">
         <div class="container">
           <!-- Content wrapper -->
           <div class="content-wrapper">
@@ -104,14 +104,7 @@
                     ideas.
                   </p>
                   <p class="is-light my-3">
-                    Our team comprises of experts in the fields of Networking,
-                    IT infrastructure,
-                    <nuxt-link to="/partnership-with-dCloud/">Cloud</nuxt-link>,
-                    DevOps and
-                    <nuxt-link to="/about-cardano/">
-                      Blockchain Technology
-                    </nuxt-link>
-                    as well as Software Development...
+                    <nuxt-link to="/dolca-stake-pool-team/">Our team</nuxt-link> comprises of experts in the fields of Networking, <nuxt-link to="/dolca-stake-pool-technology/">IT infrastructure</nuxt-link>, <nuxt-link to="/partnership-with-dCloud/">Cloud</nuxt-link>, DevOps and <nuxt-link to="/about-cardano/">Blockchain Technology</nuxt-link> as well as Software Development...
                   </p>
                 </div>
               </div>
@@ -133,7 +126,7 @@
                   </h3>
                   <div class="divider"></div>
                   <p class="is-light my-3">
-                    {{ $t("increasedSecurityText1") }}
+                    <strong>DOLCA</strong> has a long-term commitment to <strong>security</strong>, that is why <nuxt-link to="/dolca-stake-pool-team/">our team</nuxt-link> not only has only Information Security practitioners among it's members, but we also work with external 3<sup>rd</sup> party Information Security partners such as <a href="https://trustica.cz/en/">Trustica</a> and <a href="https://citadelo.com/en/">CITADELO</a>.
                   </p>
                 </div>
               </div>

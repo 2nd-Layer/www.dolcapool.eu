@@ -33,8 +33,8 @@ export default {
   networkGovernanceText2:
     "Our team comprises of experts in the fields of Networking, IT infrastructure, Cloud, DevOps and Blockchain Technology as well as Software Development...",
   increasedSecurity: "Increased Security",
-  increasedSecurityText1:
-    "Viderer malorum sadipscing cum ei. Eu impetus perfecto sit, no sea labore detraxit. Primis mediocrem necessitatibus an vis. Eu impetus perfecto sit, no sea labore detraxit.",
+  increasedSecurityText1: 
+    '',
   valueStacking: "Value Stacking",
   valueStackingText1:
     "Viderer malorum sadipscing cum ei. Eu impetus perfecto sit, no sea labore detraxit. Primis mediocrem necessitatibus an vis. Eu impetus perfecto sit, no sea labore detraxit.",
