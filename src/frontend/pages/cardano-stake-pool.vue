@@ -126,7 +126,7 @@
                   </h3>
                   <div class="divider"></div>
                   <p class="is-light my-3">
-                    <strong>DOLCA</strong> has a long-term commitment to <strong>security</strong>, that is why <nuxt-link to="/dolca-stake-pool-team/">our team</nuxt-link> not only has only Information Security practitioners among it's members, but we also work with external 3<sup>rd</sup> party Information Security partners such as <a href="https://trustica.cz/en/">Trustica</a> and <a href="https://citadelo.com/en/">CITADELO</a>.
+                    <strong>DOLCA</strong> has a long-term commitment to <strong>security</strong>, that is why <nuxt-link to="/dolca-stake-pool-team/">our team</nuxt-link> not only has Information Security practitioners among it's members. We also work with external 3<sup>rd</sup> party Information Security partners such as <a href="https://trustica.cz/en/">Trustica</a> and <a href="https://citadelo.com/en/">CITADELO</a>.
                   </p>
                 </div>
               </div>
