@@ -31,9 +31,9 @@
     <div class="navbar-item is-nav-link">
       <nuxt-link
         class="is-centered-responsive"
-        :to="localePath('/better-late-than-never-partnership/')"
+        :to="localePath('/our-partners/')"
       >
-        {{ $t("bltnPartnership") }}
+        {{ $t("ourPartners") }}
       </nuxt-link>
     </div>
 

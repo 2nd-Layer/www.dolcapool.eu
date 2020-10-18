@@ -76,11 +76,11 @@
         <p class="content has-text-left">
           <b>Better Late Than Never</b> stakepools on the testnet are still
           operated solely by
-          <a href="https://www.2ndlayer.eu"> 2ⁿᵈ Layer </a>
+          <a href="https://www.2ndlayer.eu">2ⁿᵈ Layer</a>
           in partnership with our Infrastructure Provider
-          <a href="https://www.perlur.cloud/"> PERLUR Group </a>
+          <a href="https://www.perlur.cloud/">PERLUR Group</a>
           and Internet Service Provider
-          <a href="https://www.poda.cz/"> PODA </a>
+          <a href="https://www.poda.cz/">PODA</a>
         </p>
         <div class="container has-text-centered">
           <h2 class="subtitle">Project Partners</h2>
