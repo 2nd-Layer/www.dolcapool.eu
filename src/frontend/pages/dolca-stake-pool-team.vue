@@ -17,7 +17,7 @@
           <figure class="image is-square">
             <img class="is-rounded" :src="mark_stopka" />
           </figure>
-          <h4 class="title is-2 my-6 has-text-centered">Tomas Drastich</h4>
+          <h4 class="title is-2 my-6 has-text-centered">Tomáš Drastich</h4>
           <p class="is-light">
             Tomáš has an Information Technology experience since 2003, when he
             established his own Wireless Internet Service Provider
@@ -31,7 +31,7 @@
           <span
             class="is-block has-text-centered has-text-weight-bold mt-5 mb-2"
           >
-            Connect with Tomas
+            Connect with Tomáš
           </span>
           <p class="has-text-centered">
             <a
