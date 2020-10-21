@@ -9,6 +9,7 @@ on:
 
 jobs:
   lint:
+    name: Check PR title
     runs-on: ubuntu-latest
     steps:
       - uses: aslafy-z/conventional-pr-title-action@master
