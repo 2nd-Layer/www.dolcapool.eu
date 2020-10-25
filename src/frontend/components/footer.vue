@@ -31,14 +31,14 @@
         <!-- Newsletter -->
         <div class="column is-4">
           <div class="subscribe-block">
-            <form>
+            <form action="https://dolcapool.us2.list-manage.com/subscribe/post?u=4844d1587a9602466b39360f6&amp;id=5d0415e368" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
               <!-- Field -->
               <div class="control">
                 <!-- Special input -->
                 <input
                   class="krypton-subscribe-input"
                   type="email"
-                  name="email"
+                  name="EMAIL"
                   placeholder=""
                 />
                 <button class="subscribe-button">
