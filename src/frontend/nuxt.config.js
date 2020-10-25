@@ -51,13 +51,24 @@ export default {
   /**
    * Optimize Images during build
    */
-  buildModules: ["@aceforth/nuxt-optimized-images"],
+  buildModules: [
+    '@aceforth/nuxt-optimized-images',
+    '@nuxtjs/fontawesome',
+  ],
 
   optimizedImages: {
     optimizeImages: true,
     optimizeImagesInDev: true,
   },
 
+  fontawesome: {
+    icons: {
+      brands: [
+        'faTelegram',
+        'faTwitter'
+      ]
+    }
+  },
   /*
    ** Global CSS
    */
