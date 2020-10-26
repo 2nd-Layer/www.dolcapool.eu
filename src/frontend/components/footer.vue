@@ -52,11 +52,15 @@
         <div class="column is-4">
           <ul class="footer-links">
             <li>
-              <a href="https://twitter.com/dolcapool">Twitter</a>
+              <a href="https://t.me/dolcapool">
+                <font-awesome-icon :icon="['fab', 'telegram']" size="3x" />
+              </a>
             </li>
 
             <li>
-              <a href="https://t.me/dolcapool">Telegram</a>
+              <a href="https://twitter.com/dolcapool">
+                <font-awesome-icon :icon="['fab', 'twitter']" size="3x" />
+              </a>
             </li>
           </ul>
         </div>
@@ -78,11 +82,13 @@
 </template>
 
 <script>
+import { faTelegram } from '@fortawesome/free-brands-svg-icons'
 export default {
   data() {
     return {
       logo: require("@/assets/images/logos/logo-white.svg"),
       solarSystem: require("@/assets/images/bg/solar.svg"),
+      telegram: faTelegram
     }
   },
 }
