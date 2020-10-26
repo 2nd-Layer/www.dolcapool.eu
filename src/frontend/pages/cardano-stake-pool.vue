@@ -5,7 +5,7 @@
         <div class="column is-2">
           <div class="token-image mb-40">
             <nuxt-link to="/about-cardano/">
-              <img :src="cardanoLogo" alt="Cardano Logo" />
+              <img :src="cardanoLogo" alt="Cardano Logo"/>
             </nuxt-link>
           </div>
         </div>
@@ -60,7 +60,7 @@
                   {{ roa }}%
                 </p>
                 <p>
-                  <b>{{ $t("blocksLifetime") }}:</b> {{ blocksLifetime }}
+                  <b><abbr :title="$t('blocksLifetimeDescription')">{{ $t("blocksLifetime") }}</abbr>:</b> {{ blocksLifetime }}
                 </p>
                 <p>
                   <b>{{ $t("blocksEpoch") }}:</b> {{ blocksEpoch }}
@@ -104,19 +104,26 @@
                     ideas.
                   </p>
                   <p class="is-light my-3">
-                    <nuxt-link to="/dolca-stake-pool-team/">Our team</nuxt-link> comprises of experts in the fields of Networking, <nuxt-link to="/dolca-stake-pool-technology/">IT infrastructure</nuxt-link>, <nuxt-link to="/partnership-with-dCloud/">Cloud</nuxt-link>, DevOps and <nuxt-link to="/about-cardano/">Blockchain Technology</nuxt-link> as well as Software Development...
+                    <nuxt-link to="/dolca-stake-pool-team/">Our team</nuxt-link>
+                    comprises of experts in the fields of Networking,
+                    <nuxt-link to="/dolca-stake-pool-technology/">IT infrastructure</nuxt-link>
+                    ,
+                    <nuxt-link to="/partnership-with-dCloud/">Cloud</nuxt-link>
+                    , DevOps and
+                    <nuxt-link to="/about-cardano/">Blockchain Technology</nuxt-link>
+                    as well as Software Development...
                   </p>
                 </div>
               </div>
               <!-- Feature image -->
               <div class="column is-7">
-                <img class="side-feature" src="#" alt="" />
+                <img class="side-feature" src="#" alt=""/>
               </div>
             </div>
             <div class="columns is-vcentered">
               <!-- Feature image -->
               <div class="column is-7">
-                <img class="side-feature" src="#" alt="" />
+                <img class="side-feature" src="#" alt=""/>
               </div>
               <!-- Feature content -->
               <div class="column is-5">
@@ -126,7 +133,11 @@
                   </h3>
                   <div class="divider"></div>
                   <p class="is-light my-3">
-                    <strong>DOLCA</strong> has a long-term commitment to <strong>security</strong>, that is why <nuxt-link to="/dolca-stake-pool-team/">our team</nuxt-link> not only has Information Security practitioners among it's members. We also work with external 3<sup>rd</sup> party Information Security partners such as <a href="https://trustica.cz/en/">Trustica</a> and <a href="https://citadelo.com/en/">CITADELO</a>.
+                    <strong>DOLCA</strong> has a long-term commitment to <strong>security</strong>, that is why
+                    <nuxt-link to="/dolca-stake-pool-team/">our team</nuxt-link>
+                    not only has Information Security practitioners among it's members. We also work with external
+                    3<sup>rd</sup> party Information Security partners such as <a href="https://trustica.cz/en/">Trustica</a>
+                    and <a href="https://citadelo.com/en/">CITADELO</a>.
                   </p>
                 </div>
               </div>
@@ -143,7 +154,7 @@
               </div>
               <!-- Feature image -->
               <div class="column is-7">
-                <img class="side-feature" src="#" alt="" />
+                <img class="side-feature" src="#" alt=""/>
               </div>
             </div>
           </div>
@@ -181,7 +192,7 @@ export default {
       return this.pool.roa
     },
     blocksLifetime() {
-      return this.pool.blocks_lifetime
+      return this.pool.blocks_lifetime + this.pool.blocks_epoch
     },
     blocksEpoch() {
       return this.pool.blocks_epoch
