@@ -25,6 +25,7 @@ export default {
   returnOnAssets: "Return on Assets",
   roa: "RoA",
   blocksLifetime: "Blocks Lifetime",
+  blocksLifetimeDescription: "Includes all blocks minted, including the current epoch.",
   blocksEpoch: "Blocks Epoch",
   pledge: "Pledge",
   networkGovernance: "Network Governance",
@@ -33,7 +34,7 @@ export default {
   networkGovernanceText2:
     "Our team comprises of experts in the fields of Networking, IT infrastructure, Cloud, DevOps and Blockchain Technology as well as Software Development...",
   increasedSecurity: "Increased Security",
-  increasedSecurityText1: 
+  increasedSecurityText1:
     '',
   valueStacking: "Value Stacking",
   valueStackingText1:
