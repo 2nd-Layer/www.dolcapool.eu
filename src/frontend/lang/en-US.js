@@ -24,9 +24,9 @@ export default {
   taxFixed: "Cost per Epoch",
   returnOnAssets: "Return on Assets",
   roa: "RoA",
-  blocksLifetime: "Total Blocks",
+  blocksLifetime: "Blocks Lifetime",
   blocksLifetimeDescription: "Includes all blocks minted, including the current epoch.",
-  blocksEpoch: "Blocks this Epoch",
+  blocksEpoch: "Blocks Epoch",
   pledge: "Pledge",
   networkGovernance: "Network Governance",
   networkGovernanceText1:
