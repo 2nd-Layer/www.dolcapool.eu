@@ -192,9 +192,9 @@ export default {
       return this.pool.roa
     },
     blocksLifetime() {
-      var blocks_life = parseInt(this.pool.blocks_lifetime);
-      var blocks_epoch = parseInt(this.pool.blocks_epoch);
-      return blocks_life + blocks_epoch;
+      var blocks_life = parseInt(this.pool.blocks_lifetime)
+      var blocks_epoch = parseInt(this.pool.blocks_epoch)
+      return blocks_life + blocks_epoch
     },
     blocksEpoch() {
       return this.pool.blocks_epoch
