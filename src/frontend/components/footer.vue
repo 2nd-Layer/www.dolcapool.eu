@@ -24,7 +24,9 @@
               </nuxt-link>
             </li>
             <li>
-              <nuxt-link to="/tezos-bakery">{{ $t("tezosBakery") }}</nuxt-link>
+              <nuxt-link :to="localePath('/our-partners/')">
+                {{ $t("ourPartners") }}
+              </nuxt-link>
             </li>
           </ul>
         </div>
@@ -53,13 +55,15 @@
           <ul class="footer-links">
             <li>
               <a href="https://t.me/dolcapool">
-                <font-awesome-icon :icon="['fab', 'telegram']" size="3x" />
+                <font-awesome-icon style="vertical-align: middle;" :icon="['fab', 'telegram']" size="2x" />
+                Telegram
               </a>
             </li>
 
             <li>
               <a href="https://twitter.com/dolcapool">
-                <font-awesome-icon :icon="['fab', 'twitter']" size="3x" />
+                <font-awesome-icon style="vertical-align: middle;" :icon="['fab', 'twitter']" size="2x" />
+                Twitter
               </a>
             </li>
           </ul>
@@ -71,7 +75,7 @@
         Reserved.
       </p>
       <p v-else class="k-copyright">
-        © 2020 | DOLCA Stake Pool. All Rights Reserved.
+        © 2020 | <nuxt-link to="/">DOLCA Stake Pool</nuxt-link>. All Rights Reserved.
       </p>
       <br />
     </div>
