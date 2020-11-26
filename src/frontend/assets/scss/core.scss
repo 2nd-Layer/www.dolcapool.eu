@@ -22,6 +22,9 @@ strong, .subtitle strong {
     url(../images/bg/gradient-right-darker.png) repeat-y top right,
     #1c004c;
   color: #fff;
+  a {
+    color: $orange;
+  }
 }
 
 .page-wrapper {
@@ -31,6 +34,9 @@ strong, .subtitle strong {
     url(../images/bg/bg-token-bottom.png) no-repeat bottom right,
     #1c004c;
   color: #fff;
+  a {
+    color: $orange;
+  }
 }
 
 #site-content {
