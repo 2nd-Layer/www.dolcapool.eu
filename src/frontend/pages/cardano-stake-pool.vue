@@ -35,6 +35,11 @@
                 - {{ $t("rank") }}: {{ rank }}
               </span>
             </h2>
+            <h3 class="subtitle is-4 is-light is-spaced has-text-centered">
+              <abbr title="Click on DOLCA Ticker to place Pool ID into clipboard!">
+                Stake Pool Ticker</abbr>: 
+                <strong><a @click="copyPoolID()">DOLCA</a></strong>
+            </h3>
             <div class="columns is-vcentered">
               <div class="column is-6">
                 <p>
@@ -218,6 +223,11 @@ export default {
       })
   },
   methods: {
+    async copyPoolID() {
+      var stakePoolID = "550f5dc96814537404c7544175d348262699e448d74005dfa26540d3";
+      await navigator.clipboard.writeText(stakePoolID);
+      alert('Pool ID: ' + stakePoolID + ' has been coppied into clipboard!');
+    },
     lovelaceToAda(lovelace) {
       return Math.floor(lovelace / Math.pow(10, 6))
         .toString()
