@@ -45,6 +45,6 @@
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^5.15.1",
     "@nuxtjs/fontawesome": "^1.1.2",
-    "vuex": "^3.5.1"
+    "vuex": "^3.6.0"
   }
 }
