@@ -15,7 +15,7 @@
       <div class="columns">
         <div class="column is-one-third">
           <figure class="image is-square">
-            <img class="is-rounded" :src="mark_stopka" />
+            <img class="is-rounded" :src="tomas_drastich" />
           </figure>
           <h4 class="title is-2 my-6 has-text-centered">Tomáš Drastich</h4>
           <p class="is-light">
@@ -46,13 +46,13 @@
               </span>
             </a>
             <a
-              href="https://github.com/drastys/"
+              href="https://t.me/dolcapool"
               target="_blank"
               class="is-inline-block mx-4"
             >
               <span class="icon is-large">
                 <span class="fa-stack fa-lg">
-                  <i class="fab fa-3x fa-github"></i>
+                  <i class="fab fa-3x fa-telegram-plane"></i>
                 </span>
               </span>
             </a>
@@ -196,6 +196,7 @@
 export default {
   data() {
     return {
+      tomas_drastich: require("@/assets/images/our_team/tomas_drastich.jpg"),
       mark_stopka: require("@/assets/images/our_team/mark_stopka.png"),
       cody_butz: require("@/assets/images/our_team/cody_butz.png"),
     }
