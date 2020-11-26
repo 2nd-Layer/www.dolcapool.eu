@@ -224,9 +224,9 @@ export default {
   },
   methods: {
     async copyPoolID() {
-      var stakePoolID = "550f5dc96814537404c7544175d348262699e448d74005dfa26540d3";
-      await navigator.clipboard.writeText(stakePoolID);
-      alert("Pool ID: " + stakePoolID + " has been coppied into clipboard!");
+      var stakePoolID = "550f5dc96814537404c7544175d348262699e448d74005dfa26540d3"
+      await navigator.clipboard.writeText(stakePoolID)
+      alert("Pool ID: " + stakePoolID + " has been coppied into clipboard!")
     },
     lovelaceToAda(lovelace) {
       return Math.floor(lovelace / Math.pow(10, 6))
