@@ -63,7 +63,7 @@
             <img class="is-rounded" :src="mark_stopka" />
           </figure>
           <h4 class="title is-2 my-6 has-text-centered">Mark Stopka</h4>
-          <p class="is-light p-6">
+          <p class="is-light">
             Mark has IT experience since about a year 2000, he is an contributor
             to open-source software since he was 15 years old and started
             working in Information Technology in 2009. His professional career
