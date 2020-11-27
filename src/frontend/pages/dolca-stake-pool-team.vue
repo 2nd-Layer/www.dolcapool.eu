@@ -14,7 +14,7 @@
     <section class="section mb-6">
       <div class="columns">
         <div class="column is-one-third">
-          <figure class="image is-square">
+          <figure class="image is-square m-3">
             <img class="is-rounded" :src="tomas_drastich" />
           </figure>
           <h4 class="title is-2 my-6 has-text-centered">Tomáš Drastich</h4>
