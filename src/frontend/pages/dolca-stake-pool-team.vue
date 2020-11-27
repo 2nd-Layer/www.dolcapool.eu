@@ -196,7 +196,7 @@
 export default {
   data() {
     return {
-      tomas_drastich: require("@/assets/images/our_team/tomas_drastich.jpg"),
+      tomas_drastich: require("@/assets/images/our_team/tomas_drastich.png"),
       mark_stopka: require("@/assets/images/our_team/mark_stopka.png"),
       cody_butz: require("@/assets/images/our_team/cody_butz.png"),
     }
