@@ -1,0 +1,18 @@
+version: 2
+updates:
+- package-ecosystem: github-actions
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  assignees:
+  - mark-stopka
+- package-ecosystem: npm
+  directory: "/src/frontend"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  target-branch: master
+  assignees:
+  - mark-stopka
+  - codybutz
