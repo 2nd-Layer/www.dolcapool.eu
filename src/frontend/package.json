@@ -27,7 +27,7 @@
     "eslint-config-prettier": "^6.15.0",
     "eslint-loader": "^4.0.2",
     "eslint-plugin-prettier": "^3.1.4",
-    "eslint-plugin-vue": "^7.1.0",
+    "eslint-plugin-vue": "^7.2.0",
     "nuxt": "^2.14.9",
     "imagemin-mozjpeg": "^9.0.0",
     "imagemin-pngquant": "^9.0.1",
