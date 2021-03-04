@@ -41,7 +41,7 @@
 export default {
   data() {
     return {
-      color: ["#5507fc"],
+      color: "#5507fc",
       cardanoLogo: require("@/assets/images/coins/Cardano-coin-ADA-symbol.svg"),
       layerLogo: require("@/assets/images/logos/2nd-layer-logo-white.svg"),
       perlurLogo: require("@/assets/images/logos/perlur-logo-white.svg"),

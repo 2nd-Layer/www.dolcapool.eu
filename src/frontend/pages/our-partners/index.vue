@@ -17,7 +17,7 @@
             </div>
             <div class="column">
               <p class="content">
-                <strong>Better Late Than Never</strong> Cardano Shelley Incentivized Testnet pools <strong>BLTNA</strong> and <strong>BLTNB</strong> have joined forces with <strong>DOLCA</strong> for the <nuxt-link :to="/about-cardano/">Cardano Shelley Mainnet</nuxt-link>.
+                <strong>Better Late Than Never</strong> Cardano Shelley Incentivized Testnet pools <strong>BLTNA</strong> and <strong>BLTNB</strong> have joined forces with <strong>DOLCA</strong> for the <nuxt-link to="/about-cardano/">Cardano Shelley Mainnet</nuxt-link>.
               </p>
               <p class="content buttons has-addons is-centered">
                 <nuxt-link
