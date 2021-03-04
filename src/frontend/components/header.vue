@@ -6,8 +6,8 @@
 </template>
 
 <script>
-import NavBarClone from "~/components/Navigation/NavBarClone";
-import NavBarStatic from "~/components/Navigation/NavBarStatic";
+import NavBarClone from "~/components/Navigation/NavBarClone"
+import NavBarStatic from "~/components/Navigation/NavBarStatic"
 
 export default {
   name: "App",
