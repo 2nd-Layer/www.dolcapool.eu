@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{159:function(n,e,o){"use strict";o.r(e),e.default={overview:"Základní přehled",cardanoStakePool:"Cardano Stake Pool",bltnPartnership:"Partnerství s BLTN",beginStakingNow:"Začněte stakovat nyní"}}}]);
