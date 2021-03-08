@@ -39,7 +39,8 @@
     "sass": "^1.32.8",
     "sass-loader": "^11.0.1",
     "vue": "^2.6.12",
-    "webp-loader": "^0.6.0"
+    "webp-loader": "^0.6.0",
+    "webpack": "^5.24.4"
   },
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^5.15.2",
