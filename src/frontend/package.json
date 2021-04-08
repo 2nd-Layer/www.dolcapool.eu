@@ -20,7 +20,7 @@
     "@nuxt/generator": "^2.15.4",
     "@nuxtjs/google-analytics": "^2.4.0",
     "@nuxtjs/sitemap": "^2.4.0",
-    "@vue/composition-api": "^1.0.0-rc.5",
+    "@vue/composition-api": "^1.0.0-rc.6",
     "axios": "^0.21.1",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.22.0",
