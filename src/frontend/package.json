@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "@aceforth/nuxt-optimized-images": "^1.4.0",
-    "@nuxt/core": "^2.15.4",
+    "@nuxt/core": "^2.15.5",
     "@nuxt/generator": "^2.15.4",
     "@nuxtjs/google-analytics": "^2.4.0",
     "@nuxtjs/sitemap": "^2.4.0",
